@@ -39,6 +39,8 @@ status-website:
     - title: AWS
       href: https://status.aws.amazon.com/
       
+  customHeadHtml: "<style>.container:nth-of-type(1) { max-width: 100% }</style>"
+      
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
