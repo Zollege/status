@@ -30,6 +30,8 @@ status-website:
       href: https://status.hubspot.com/
     - title: Slack
       href: https://status.slack.com/
+    - title: GitHub
+      href: https://www.githubstatus.com/
     - title: Heroku
       href: https://status.heroku.com/
     - title: Cloudflare
