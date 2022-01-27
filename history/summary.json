@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/zql.zollege.com",
     "slug": "zql",
     "status": "up",
-    "uptime": "84.72%",
+    "uptime": "86.21%",
     "uptimeDay": "60.42%",
-    "uptimeWeek": "84.72%",
-    "uptimeMonth": "84.72%",
-    "uptimeYear": "84.72%",
+    "uptimeWeek": "86.21%",
+    "uptimeMonth": "86.21%",
+    "uptimeYear": "86.21%",
     "time": 114,
     "timeDay": 119,
     "timeWeek": 114,
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 212,
+    "timeDay": 207,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
@@ -60,7 +60,7 @@
     "url": "https://zollege.com/",
     "icon": "https://favicons.githubusercontent.com/zollege.com",
     "slug": "zollege",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 513,
     "timeMonth": 513,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   }
 ]
