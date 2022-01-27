@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 93,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "time": 123,
+    "timeDay": 206,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/reports.zollege.com",
     "slug": "reports-metabase",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 124,
-    "timeDay": 155,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
-    "dailyMinutesDown": {
-      "2022-01-26": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 132,
+    "timeDay": 212,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Learn (Canvas)",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 406,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "time": 395,
+    "timeDay": 305,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 417,
-    "timeWeek": 471,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "time": 513,
+    "timeDay": 812,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   }
 ]
