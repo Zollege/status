@@ -24,19 +24,19 @@
     "url": "https://reports.zollege.com/api/health",
     "icon": "https://favicons.githubusercontent.com/reports.zollege.com",
     "slug": "reports-metabase",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 343,
-    "timeDay": 121,
-    "timeWeek": 148,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 341,
+    "timeDay": 129,
+    "timeWeek": 153,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2022-02-19": 36
+      "2022-02-19": 46
     }
   },
   {
