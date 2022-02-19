@@ -24,7 +24,7 @@
     "url": "https://reports.zollege.com/api/health",
     "icon": "https://favicons.githubusercontent.com/reports.zollege.com",
     "slug": "reports-metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 180,
     "timeMonth": 402,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-19": 0
+    }
   },
   {
     "name": "Learn (Canvas)",
@@ -61,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/zollege.com",
     "slug": "zollege",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "95.54%",
+    "uptimeMonth": "95.57%",
+    "uptimeYear": "95.57%",
     "time": 426,
     "timeDay": 284,
     "timeWeek": 428,
