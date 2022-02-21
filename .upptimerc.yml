@@ -11,206 +11,198 @@ sites:
     url: https://learn.zollege.com/health_check/
   - name: Zollege
     url: https://zollege.com/
-  - name: Denton Dental Assistant School
-    url: http://dentondentalassistant.com
   - name: Abilene Dental Assistant School
-    url: https://abilenedentalassistantschool.com
+    url: https://abilenedentalassistantschool.com/
   - name: Abilene Medical Assistant School
-    url: https://abilenemedicalassistant.com
+    url: https://abilenemedicalassistant.com/
   - name: Alvin Dental Assistant School
-    url: https://alvindentalassistant.com
+    url: https://alvindentalassistant.com/
   - name: Amarillo Dental Assistant School
-    url: https://amarillodentalassistantschool.com
+    url: https://amarillodentalassistantschool.com/
   - name: Amarillo Medical Assistant School
-    url: https://amarillomedicalassistantschool.com
+    url: https://amarillomedicalassistantschool.com/
   - name: Arch Dental Academy
-    url: https://archdentalacademy.com
+    url: https://archdentalacademy.com/
   - name: Atlanta Dental Assistant School
-    url: https://atlantadentalassistantschool.com
+    url: https://atlantadentalassistantschool.com/
   - name: Atlanta Medical Assistant School
-    url: https://atlantamedicalassistant.com
+    url: https://atlantamedicalassistant.com/
   - name: Augusta Dental Assistant School
-    url: https://augustadentalassistant.com
+    url: https://augustadentalassistant.com/
+  - name: Austin Coding Academy
+    url: https://austincodingacademy.com/
   - name: Austin Dental Assistant School
-    url: https://austindentalassistantschool.com
+    url: https://austindentalassistantschool.com/
   - name: Austin Medical Assistant School
-    url: https://austinmedicalassistantschool.com
+    url: https://austinmedicalassistantschool.com/
   - name: Baton Rouge Dental Assistant Academy
-    url: https://batonrougedentalassistant.com
+    url: https://batonrougedentalassistant.com/
   - name: Bellingham Dental Assistant School
-    url: https://bellinghamdentalassistant.com
+    url: https://bellinghamdentalassistant.com/
   - name: Birmingham Dental Assistant School
-    url: https://birminghamdentalassistant.com
+    url: https://birminghamdentalassistant.com/
   - name: Bloomington Dental Assistant School
-    url: https://bloomingtondentalassistant.com
+    url: https://bloomingtondentalassistant.com/
   - name: Bremerton Dental Assistant School
-    url: https://bremertondentalassistant.com
+    url: https://bremertondentalassistant.com/
   - name: Brownsville Dental Assistant School 
-    url: https://brownsvilledentalassistant.com
+    url: https://brownsvilledentalassistant.com/
   - name: Centralia Dental Assistant School
-    url: https://centraliadentalassistant.com
+    url: https://centraliadentalassistant.com/
   - name: Charlotte Dental Assistant School
-    url: https://charlottedentalassistantschool.com
-  - name: Charlotte Medical Assistant School
-    url: https://charlottemedicalassistantschool.com
+    url: https://charlottedentalassistantschool.com/
   - name: Chicago Dental Assistant School
-    url: https://chicagodentalassistantschool.com
+    url: https://chicagodentalassistantschool.com/
   - name: College Station Dental Assistant School
-    url: https://collegestationdentalassistant.com
+    url: https://collegestationdentalassistant.com/
   - name: College Station Medical Assistant School
-    url: https://collegestationmedicalassistant.com
+    url: https://collegestationmedicalassistant.com/
   - name: Colorado Dental Assistant Academy
-    url: https://coloradodentalassistant.com
-  - name: Columbus Medical Assistant School
-    url: https://columbusmedicalassistantschool.com
+    url: https://coloradodentalassistant.com/
   - name: Corpus Christi Dental Assistant School
-    url: https://corpuschristidentalassistant.com
+    url: https://corpuschristidentalassistant.com/
   - name: Corpus Christi Medical Assistant School
-    url: https://corpuschristimedicalassistant.com
+    url: https://corpuschristimedicalassistant.com/
   - name: Dallas Dental Assistant School
-    url: https://dallasdentalassistantschool.com
+    url: https://dallasdentalassistantschool.com/
   - name: Dallas Medical Assistant School
-    url: https://dallasmedicalassistant.com
+    url: https://dallasmedicalassistant.com/
   - name: Dalton Dental Assistant School
-    url: https://daltondentalassistant.com
-  - name: Waco Dental Assistant School
-    url: https://dentalassistantschoolwaco.com
+    url: https://daltondentalassistant.com/
+  - name: Denton Dental Assistant School
+    url: http://dentondentalassistant.com/
   - name: Denver Dental Assistant School
-    url: https://denverdentalassistant.com
-  - name: Denver Medical Assistant School
-    url: https://denvermedicalassistantschool.com
-  - name: Detroit Medical Assistant School
-    url: https://detroitmedicalassistantschool.com
+    url: https://denverdentalassistant.com/
   - name: Duncanville Dental Assistant School
-    url: https://duncanvilledentalassistant.com
+    url: https://duncanvilledentalassistant.com/
   - name: El Paso Dental Assistant School
-    url: https://elpasodentalassistant.com
+    url: https://elpasodentalassistant.com/
   - name: El Paso Medical Assistant School
-    url: https://elpasomedicalassistant.com
+    url: https://elpasomedicalassistant.com/
   - name: Evansville Dental Assistant School
-    url: https://evansvilledentalassistantschool.com
+    url: https://evansvilledentalassistantschool.com/
   - name: Fort Worth Dental Assistant School
-    url: https://fortworthdentalassistant.com
+    url: https://fortworthdentalassistant.com/
   - name: Franklin Dental Assistant School
-    url: https://franklindentalassistant.com
+    url: https://franklindentalassistant.com/
   - name: Georgia Dental Assistant School
-    url: https://georgiadentalassistantschool.com
+    url: https://georgiadentalassistantschool.com/
   - name: Gonzales Medical Assistant School
-    url: https://gonzalesmedicalassistant.com
+    url: https://gonzalesmedicalassistant.com/
   - name: Granbury Medical Assistant School
-    url: https://granburymedicalassistant.com
+    url: https://granburymedicalassistant.com/
   - name: Grapevine Dental Assistant School
-    url: https://grapevinedentalassistantschool.com
+    url: https://grapevinedentalassistantschool.com/
   - name: Houma Dental Assistant School
-    url: https://houmadentalassistant.com
+    url: https://houmadentalassistant.com/
   - name: Houston Dental Assistant Academy
-    url: https://houstondentalassistant.com
+    url: https://houstondentalassistant.com/
   - name: Huntsville Dental Assistant School
-    url: https://huntsvilledentalassistant.com
+    url: https://huntsvilledentalassistant.com/
   - name: Huntsville Dental Assistant School
-    url: https://huntsvilledentalassistantschool.com
-  - name: Indiana Medical Assistant School
-    url: https://indianamedicalassistantschool.com
+    url: https://huntsvilledentalassistantschool.com/
   - name: Indianapolis Dental Assistant School
-    url: https://indydentalassistantschool.com
+    url: https://indydentalassistantschool.com/
   - name: Jacksonville Dental Assistant School
-    url: https://jacksonvilledentalassistantschool.com
+    url: https://jacksonvilledentalassistantschool.com/
   - name: Jeffersonville Dental Assistant School
-    url: https://jeffersonvilledentalassistant.com
+    url: https://jeffersonvilledentalassistant.com/
   - name: Lafayette Dental Assistant School
-    url: https://lafayettedentalassistant.com
+    url: https://lafayettedentalassistant.com/
   - name: Lake Jackson Medical Assistant School
-    url: https://lakejacksonmedicalassistant.com
+    url: https://lakejacksonmedicalassistant.com/
   - name: Las Vegas Dental Assistant School
-    url: https://lasvegasdentalassistant.com
+    url: https://lasvegasdentalassistant.com/
   - name: Las Vegas Medical Assistant School
-    url: https://lasvegasmedicalassistant.com
+    url: https://lasvegasmedicalassistant.com/
   - name: League City Medical Assistant School
-    url: https://leaguecitymedicalassistant.com
+    url: https://leaguecitymedicalassistant.com/
   - name: Little Rock Dental Assistant Academy
-    url: https://littlerockdentalassistant.com
-  - name: Los Angeles Medical Assistant School
-    url: https://losangelesmedicalassistantschool.com
+    url: https://littlerockdentalassistant.com/
   - name: Louisiana Dental Assistant Academy
-    url: https://louisianadentalassistantacademy.com
+    url: https://louisianadentalassistantacademy.com/
+  - name: Lubbock Coding Academy
+    url: https://lubbockcodingacademy.com/
   - name: Lubbock Dental Assistant School
-    url: https://lubbockdentalassistantschool.com
+    url: https://lubbockdentalassistantschool.com/
   - name: Lubbock Medical Assistant School
-    url: https://lubbockmedicalassistant.com
+    url: https://lubbockmedicalassistant.com/
   - name: Magnolia Dental Assistant School
-    url: https://magnoliadentalassistant.com
+    url: https://magnoliadentalassistant.com/
   - name: McKinney Dental Assistant School
-    url: https://mckinneydentalassistant.com
+    url: https://mckinneydentalassistant.com/
   - name: Midland Dental Assistant School
-    url: https://midlanddentalassistant.com
+    url: https://midlanddentalassistant.com/
   - name: Montgomery Dental Assistant School
-    url: https://montgomerydentalassistant.com
+    url: https://montgomerydentalassistant.com/
   - name: Moses Lake Dental Assistant School
-    url: https://moseslakedentalassistant.com
+    url: https://moseslakedentalassistant.com/
   - name: Nacogdoches Dental Assistant School
-    url: https://nacogdochesdentalassistant.com
+    url: https://nacogdochesdentalassistant.com/
   - name: New Braunfels Dental Assistant School
-    url: https://newbraunfelsdentalassistant.com
+    url: https://newbraunfelsdentalassistant.com/
   - name: New Orleans Dental Assistant School
-    url: https://neworleansdentalassistant.com
+    url: https://neworleansdentalassistant.com/
   - name: Odessa Dental Assistant School
-    url: https://odessadentalassistantschool.com
+    url: https://odessadentalassistantschool.com/
   - name: Ohio Dental Assistant School
-    url: https://ohiodentalassistantschool.com
+    url: https://ohiodentalassistantschool.com/
   - name: Oklahoma City Dental Assistant School
-    url: https://oklahomacitydentalassistant.com
+    url: https://oklahomacitydentalassistant.com/
   - name: Olympia Dental Assistant School
-    url: https://olympiadentalassistant.com
-  - name: Orlando Medical Assistant School
-    url: https://orlandomedicalassistantschool.com
+    url: https://olympiadentalassistant.com/
   - name: Philadelphia Medical Assistant School
-    url: https://philadelphiamedicalassistantschool.com
+    url: https://philadelphiamedicalassistantschool.com/
   - name: Phoenix Dental Assistant School
-    url: https://phoenixdentalassistantschool.com
+    url: https://phoenixdentalassistantschool.com/
   - name: San Antonio Dental Assistant School
-    url: https://sanantoniodentalassistantschool.com
+    url: https://sanantoniodentalassistantschool.com/
   - name: San Antonio Medical Assistant School
-    url: https://sanantoniomedicalassistant.com
+    url: https://sanantoniomedicalassistant.com/
   - name: San Francisco Medical Assistant School
-    url: https://sanfranciscomedicalassistantschool.com
+    url: https://sanfranciscomedicalassistantschool.com/
   - name: San Marcos Dental Assistant School
-    url: https://sanmarcosdentalassistant.com
+    url: https://sanmarcosdentalassistant.com/
   - name: Savannah Dental Assistant School
-    url: https://savannahdentalassistant.com
+    url: https://savannahdentalassistant.com/
   - name: Searcy Dental Assistant School
-    url: https://searcydentalassistant.com
+    url: https://searcydentalassistant.com/
   - name: Seattle Dental Assistant School
-    url: https://seattledentalassistant.com
+    url: https://seattledentalassistant.com/
   - name: Shreveport Dental Assistant School
-    url: https://shreveportdentalassistant.com
+    url: https://shreveportdentalassistant.com/
   - name: Snap Medical Assistant Academy
-    url: https://snapmedicalassistant.com
+    url: https://snapmedicalassistant.com/
   - name: South Bend Dental Assistant School
-    url: https://southbenddentalassistant.com
+    url: https://southbenddentalassistant.com/
   - name: Spokane Dental Assistant School
-    url: https://spokanedentalassistant.com
+    url: https://spokanedentalassistant.com/
   - name: St. John Dental Assistant School
-    url: https://stjohndentalassistant.com
+    url: https://stjohndentalassistant.com/
   - name: Tacoma Dental Assistant School
-    url: https://tacomadentalassistant.com
+    url: https://tacomadentalassistant.com/
   - name: Temple Dental Assistant School
-    url: https://templedentalassistantschool.com
+    url: https://templedentalassistantschool.com/
   - name: Terre Haute Dental Assistant School
-    url: https://terrehautedentalassistant.com
+    url: https://terrehautedentalassistant.com/
   - name: Texas Dental Assistant School
-    url: https://texasdentalassistantschool.com
+    url: https://texasdentalassistantschool.com/
+  - name: Texas Tech Coding Academy
+    url: https://texastechcodingacademy.com/
   - name: Tucson Dental Assistant School
-    url: https://tucsondentalassistantschool.com
+    url: https://tucsondentalassistantschool.com/
   - name: Tulsa Dental Assistant School
-    url: https://tulsadentalassistant.com
+    url: https://tulsadentalassistant.com/
   - name: Tulsa Medical Assistant School
-    url: https://tulsamedicalassistant.com
+    url: https://tulsamedicalassistant.com/
   - name: Tyler Dental Assistant School
-    url: https://tylerdentalassistant.com
+    url: https://tylerdentalassistant.com/
+  - name: Waco Dental Assistant School
+    url: https://dentalassistantschoolwaco.com/
   - name: Wichita Falls Dental Assistant School
-    url: https://wichitafallsdentalassistant.com
+    url: https://wichitafallsdentalassistant.com/
   - name: Wichita Falls Medical Assistant School
-    url: https://wichitafallsmedicalassistant.com
+    url: https://wichitafallsmedicalassistant.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
