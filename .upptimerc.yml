@@ -231,7 +231,7 @@ status-website:
     - title: AWS
       href: https://status.aws.amazon.com/
       
-  customHeadHtml: "<style>.container:nth-of-type(1) { max-width: 100%; } .live-status { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); grid-gap: 10px; }</style>"
+  customHeadHtml: "<style>body { font-size: 14px !important; } .container:nth-of-type(1) { max-width: 100%; } .live-status { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); grid-gap: 10px; }</style>"
       
 workflowSchedule:
   graphs: "0 0 * * *"
