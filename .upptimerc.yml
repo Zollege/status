@@ -5,218 +5,320 @@ repo: status # The name of this repository
 sites:
   - name: ZQL
     url: https://zql.zollege.com/api/ping/
+    icon: https://zql.zollege.com/favicon/favicon-32x32.png
   - name: Reports (Metabase)
     url: https://reports.zollege.com/api/health
+    icon: https://reports.zollege.com/app/assets/img/favicon.ico
   - name: Lambda
     url: https://4runw89p71.execute-api.us-west-1.amazonaws.com/latest/ping
   - name: Learn (Canvas)
     url: https://learn.zollege.com/health_check/
+    icon: https://canvas-lms.s3.us-west-2.amazonaws.com/account_1/attachments/97/android-icon-48x48.png
   - name: Zollege LTI (Canvas)
     url: https://lti.zollege.com/ping/
   - name: Courses (Open edX)
     url: https://courses.zollege.com/heartbeat
+    icon: https://courses.zollege.com/static/zollege/images/favicon.6455cb07c50a.png
   - name: Zollege LTI (Open edX)
     url: https://openedx.zollege.com/ping/
   - name: Campus Manager
     url: https://campus.austincodingacademy.com/
+    icon: https://campus.austincodingacademy.com/img/austin-logo.svg
   - name: Webhooks (Jitsu)
     url: https://zql-jitsu.herokuapp.com/ping
   - name: Feedback (Fider)
     url: https://feedback.zollege.com/_health
+    icon: https://feedback.zollege.com/static/favicon/logos/trICz1tcsyuNG3kRrp3LkeKmLzHz2j2j0stJg38Lxdl8rcWqtRgqsS0vAmqfNtwO-zollege-icon-blue_1-padding_white.png?size=64
   - name: Zollege
     url: https://zollege.com/
+    icon: https://zollege.com/wp-content/uploads/2019/06/cropped-zollege-logo-blue_icon-32x32.png
   - name: Abilene Dental Assistant School
     url: https://abilenedentalassistantschool.com/
+    icon: https://abilenedentalassistantschool.com/assets/favicons/abilenedentalassistantschool.com/favicon.ico
   - name: Abilene Medical Assistant School
     url: https://abilenemedicalassistant.com/
+    icon: https://abilenemedicalassistant.com/assets/favicons/abilenemedicalassistant.com/favicon.ico
   - name: Alvin Dental Assistant School
     url: https://alvindentalassistant.com/
+    icon: https://alvindentalassistant.com/assets/favicons/alvindentalassistant.com/favicon.ico
   - name: Amarillo Dental Assistant School
     url: https://amarillodentalassistantschool.com/
+    icon: https://amarillodentalassistantschool.com/assets/favicons/amarillodentalassistantschool.com/favicon.ico
   - name: Amarillo Medical Assistant School
     url: https://amarillomedicalassistantschool.com/
+    icon: https://amarillomedicalassistantschool.com/assets/favicons/amarillomedicalassistantschool.com/favicon.ico
   - name: Arch Dental Academy
     url: https://archdentalacademy.com/
+    icon: https://archdentalacademy.com/assets/favicons/archdentalacademy.com/favicon.ico
   - name: Atlanta Dental Assistant School
     url: https://atlantadentalassistantschool.com/
+    icon: https://atlantadentalassistantschool.com/assets/favicons/atlantadentalassistantschool.com/favicon.ico
   - name: Atlanta Medical Assistant School
     url: https://atlantamedicalassistant.com/
+    icon: https://atlantamedicalassistant.com/assets/favicons/atlantamedicalassistant.com/favicon.ico
   - name: Augusta Dental Assistant School
     url: https://augustadentalassistant.com/
+    icon: https://augustadentalassistant.com/assets/favicons/augustadentalassistant.com/favicon.ico
   - name: Austin Coding Academy
     url: https://austincodingacademy.com/
+    icon: https://austincodingacademy.com/assets/favicons/austincodingacademy.com/favicon.ico
   - name: Austin Dental Assistant School
     url: https://austindentalassistantschool.com/
+    icon: https://austindentalassistantschool.com/assets/favicons/austindentalassistantschool.com/favicon.ico
   - name: Austin Medical Assistant School
     url: https://austinmedicalassistantschool.com/
+    icon: https://austinmedicalassistantschool.com/assets/favicons/austinmedicalassistantschool.com/favicon.ico
   - name: Baton Rouge Dental Assistant Academy
     url: https://batonrougedentalassistant.com/
+    icon: https://batonrougedentalassistant.com/assets/favicons/batonrougedentalassistant.com/favicon.ico
   - name: Bellingham Dental Assistant School
     url: https://bellinghamdentalassistant.com/
+    icon: https://bellinghamdentalassistant.com/assets/favicons/bellinghamdentalassistant.com/favicon.ico
   - name: Birmingham Dental Assistant School
     url: https://birminghamdentalassistant.com/
+    icon: https://birminghamdentalassistant.com/assets/favicons/birminghamdentalassistant.com/favicon.ico
   - name: Bloomington Dental Assistant School
     url: https://bloomingtondentalassistant.com/
+    icon: https://bloomingtondentalassistant.com/assets/favicons/bloomingtondentalassistant.com/favicon.ico
   - name: Bremerton Dental Assistant School
     url: https://bremertondentalassistant.com/
+    icon: https://bremertondentalassistant.com/assets/favicons/bremertondentalassistant.com/favicon.ico
   - name: Brownsville Dental Assistant School 
     url: https://brownsvilledentalassistant.com/
+    icon: https://brownsvilledentalassistant.com/assets/favicons/brownsvilledentalassistant.com/favicon.ico
   - name: Centralia Dental Assistant School
     url: https://centraliadentalassistant.com/
+    icon: https://centraliadentalassistant.com/assets/favicons/centraliadentalassistant.com/favicon.ico
   - name: Charlotte Dental Assistant School
     url: https://charlottedentalassistantschool.com/
+    icon: https://charlottedentalassistantschool.com/assets/favicons/charlottedentalassistantschool.com/favicon.ico
   - name: Chicago Dental Assistant School
     url: https://chicagodentalassistantschool.com/
+    icon: https://chicagodentalassistantschool.com/assets/favicons/chicagodentalassistantschool.com/favicon.ico
   - name: College Station Dental Assistant School
     url: https://collegestationdentalassistant.com/
+    icon: https://collegestationdentalassistant.com/assets/favicons/collegestationdentalassistant.com/favicon.ico
   - name: College Station Medical Assistant School
     url: https://collegestationmedicalassistant.com/
+    icon: https://collegestationmedicalassistant.com/assets/favicons/collegestationmedicalassistant.com/favicon.ico
   - name: Colorado Dental Assistant Academy
     url: https://coloradodentalassistant.com/
+    icon: https://coloradodentalassistant.com/assets/favicons/coloradodentalassistant.com/favicon.ico
   - name: Corpus Christi Dental Assistant School
     url: https://corpuschristidentalassistant.com/
+    icon: https://corpuschristidentalassistant.com/assets/favicons/corpuschristidentalassistant.com/favicon.ico
   - name: Corpus Christi Medical Assistant School
     url: https://corpuschristimedicalassistant.com/
+    icon: https://corpuschristimedicalassistant.com/assets/favicons/corpuschristimedicalassistant.com/favicon.ico
   - name: Dallas Dental Assistant School
     url: https://dallasdentalassistantschool.com/
+    icon: https://dallasdentalassistantschool.com/assets/favicons/dallasdentalassistantschool.com/favicon.ico
   - name: Dallas Medical Assistant School
     url: https://dallasmedicalassistant.com/
+    icon: https://dallasmedicalassistant.com/assets/favicons/dallasmedicalassistant.com/favicon.ico
   - name: Dalton Dental Assistant School
     url: https://daltondentalassistant.com/
+    icon: https://daltondentalassistant.com/assets/favicons/daltondentalassistant.com/favicon.ico
   - name: Denton Dental Assistant School
     url: http://dentondentalassistant.com/
   - name: Denver Dental Assistant School
     url: https://denverdentalassistant.com/
+    icon: https://denverdentalassistant.com/assets/favicons/denverdentalassistant.com/favicon.ico
   - name: Duncanville Dental Assistant School
     url: https://duncanvilledentalassistant.com/
+    icon: https://duncanvilledentalassistant.com/assets/favicons/duncanvilledentalassistant.com/favicon.ico
   - name: El Paso Dental Assistant School
     url: https://elpasodentalassistant.com/
+    icon: https://elpasodentalassistant.com/assets/favicons/elpasodentalassistant.com/favicon.ico
   - name: El Paso Medical Assistant School
     url: https://elpasomedicalassistant.com/
+    icon: https://elpasomedicalassistant.com/assets/favicons/elpasomedicalassistant.com/favicon.ico
   - name: Evansville Dental Assistant School
     url: https://evansvilledentalassistantschool.com/
+    icon: https://evansvilledentalassistantschool.com/assets/favicons/evansvilledentalassistantschool.com/favicon.ico
   - name: Fort Worth Dental Assistant School
     url: https://fortworthdentalassistant.com/
+    icon: https://fortworthdentalassistant.com/assets/favicons/fortworthdentalassistant.com/favicon.ico
   - name: Franklin Dental Assistant School
     url: https://franklindentalassistant.com/
+    icon: https://franklindentalassistant.com/assets/favicons/franklindentalassistant.com/favicon.ico
   - name: Georgia Dental Assistant School
     url: https://georgiadentalassistantschool.com/
+    icon: https://georgiadentalassistantschool.com/assets/favicons/georgiadentalassistantschool.com/favicon.ico
   - name: Gonzales Medical Assistant School
     url: https://gonzalesmedicalassistant.com/
+    icon: https://gonzalesmedicalassistant.com/assets/favicons/gonzalesmedicalassistant.com/favicon.ico
   - name: Granbury Medical Assistant School
     url: https://granburymedicalassistant.com/
+    icon: https://granburymedicalassistant.com/assets/favicons/granburymedicalassistant.com/favicon.ico
   - name: Grapevine Dental Assistant School
     url: https://grapevinedentalassistantschool.com/
+    icon: https://grapevinedentalassistantschool.com/assets/favicons/grapevinedentalassistantschool.com/favicon.ico
   - name: Houma Dental Assistant School
     url: https://houmadentalassistant.com/
+    icon: https://houmadentalassistant.com/assets/favicons/houmadentalassistant.com/favicon.ico
   - name: Houston Dental Assistant Academy
     url: https://houstondentalassistant.com/
+    icon: https://houstondentalassistant.com/assets/favicons/houstondentalassistant.com/favicon.ico
   - name: Huntsville Dental Assistant School
     url: https://huntsvilledentalassistant.com/
+    icon: https://huntsvilledentalassistant.com/assets/favicons/huntsvilledentalassistant.com/favicon.ico
   - name: Huntsville Dental Assistant School
     url: https://huntsvilledentalassistantschool.com/
+    icon: https://huntsvilledentalassistantschool.com/assets/favicons/huntsvilledentalassistantschool.com/favicon.ico
   - name: Indianapolis Dental Assistant School
     url: https://indydentalassistantschool.com/
+    icon: https://indydentalassistantschool.com/assets/favicons/indydentalassistantschool.com/favicon.ico
   - name: Jacksonville Dental Assistant School
     url: https://jacksonvilledentalassistantschool.com/
+    icon: https://jacksonvilledentalassistantschool.com/assets/favicons/jacksonvilledentalassistantschool.com/favicon.ico
   - name: Jeffersonville Dental Assistant School
     url: https://jeffersonvilledentalassistant.com/
+    icon: https://jeffersonvilledentalassistant.com/assets/favicons/jeffersonvilledentalassistant.com/favicon.ico
   - name: Lafayette Dental Assistant School
     url: https://lafayettedentalassistant.com/
+    icon: https://lafayettedentalassistant.com/assets/favicons/lafayettedentalassistant.com/favicon.ico
   - name: Lake Jackson Medical Assistant School
     url: https://lakejacksonmedicalassistant.com/
+    icon: https://lakejacksonmedicalassistant.com/assets/favicons/lakejacksonmedicalassistant.com/favicon.ico
   - name: Las Vegas Dental Assistant School
     url: https://lasvegasdentalassistant.com/
+    icon: https://lasvegasdentalassistant.com/assets/favicons/lasvegasdentalassistant.com/favicon.ico
   - name: Las Vegas Medical Assistant School
     url: https://lasvegasmedicalassistant.com/
+    icon: https://lasvegasmedicalassistant.com/assets/favicons/lasvegasmedicalassistant.com/favicon.ico
   - name: League City Medical Assistant School
     url: https://leaguecitymedicalassistant.com/
+    icon: https://leaguecitymedicalassistant.com/assets/favicons/leaguecitymedicalassistant.com/favicon.ico
   - name: Little Rock Dental Assistant Academy
     url: https://littlerockdentalassistant.com/
+    icon: https://littlerockdentalassistant.com/assets/favicons/littlerockdentalassistant.com/favicon.ico
   - name: Louisiana Dental Assistant Academy
     url: https://louisianadentalassistantacademy.com/
+    icon: https://louisianadentalassistantacademy.com/assets/favicons/louisianadentalassistantacademy.com/favicon.ico
   - name: Lubbock Coding Academy
     url: https://lubbockcodingacademy.com/
+    icon: https://lubbockcodingacademy.com/assets/favicons/lubbockcodingacademy.com/favicon.ico
   - name: Lubbock Dental Assistant School
     url: https://lubbockdentalassistantschool.com/
+    icon: https://lubbockdentalassistantschool.com/assets/favicons/lubbockdentalassistantschool.com/favicon.ico
   - name: Lubbock Medical Assistant School
     url: https://lubbockmedicalassistant.com/
+    icon: https://lubbockmedicalassistant.com/assets/favicons/lubbockmedicalassistant.com/favicon.ico
   - name: Magnolia Dental Assistant School
     url: https://magnoliadentalassistant.com/
+    icon: https://magnoliadentalassistant.com/assets/favicons/magnoliadentalassistant.com/favicon.ico
   - name: McKinney Dental Assistant School
     url: https://mckinneydentalassistant.com/
+    icon: https://mckinneydentalassistant.com/assets/favicons/mckinneydentalassistant.com/favicon.ico
   - name: Midland Dental Assistant School
     url: https://midlanddentalassistant.com/
+    icon: https://midlanddentalassistant.com/assets/favicons/midlanddentalassistant.com/favicon.ico
   - name: Montgomery Dental Assistant School
     url: https://montgomerydentalassistant.com/
+    icon: https://montgomerydentalassistant.com/assets/favicons/montgomerydentalassistant.com/favicon.ico
   - name: Moses Lake Dental Assistant School
     url: https://moseslakedentalassistant.com/
+    icon: https://moseslakedentalassistant.com/assets/favicons/moseslakedentalassistant.com/favicon.ico
   - name: Nacogdoches Dental Assistant School
     url: https://nacogdochesdentalassistant.com/
+    icon: https://nacogdochesdentalassistant.com/assets/favicons/nacogdochesdentalassistant.com/favicon.ico
   - name: New Braunfels Dental Assistant School
     url: https://newbraunfelsdentalassistant.com/
+    icon: https://newbraunfelsdentalassistant.com/assets/favicons/newbraunfelsdentalassistant.com/favicon.ico
   - name: New Orleans Dental Assistant School
     url: https://neworleansdentalassistant.com/
+    icon: https://neworleansdentalassistant.com/assets/favicons/neworleansdentalassistant.com/favicon.ico
   - name: Odessa Dental Assistant School
     url: https://odessadentalassistantschool.com/
+    icon: https://odessadentalassistantschool.com/assets/favicons/odessadentalassistantschool.com/favicon.ico
   - name: Ohio Dental Assistant School
     url: https://ohiodentalassistantschool.com/
+    icon: https://ohiodentalassistantschool.com/assets/favicons/ohiodentalassistantschool.com/favicon.ico
   - name: Oklahoma City Dental Assistant School
     url: https://oklahomacitydentalassistant.com/
+    icon: https://oklahomacitydentalassistant.com/assets/favicons/oklahomacitydentalassistant.com/favicon.ico
   - name: Olympia Dental Assistant School
     url: https://olympiadentalassistant.com/
+    icon: https://olympiadentalassistant.com/assets/favicons/olympiadentalassistant.com/favicon.ico
   - name: Philadelphia Medical Assistant School
     url: https://philadelphiamedicalassistantschool.com/
+    icon: https://philadelphiamedicalassistantschool.com/assets/favicons/philadelphiamedicalassistantschool.com/favicon.ico
   - name: Phoenix Dental Assistant School
     url: https://phoenixdentalassistantschool.com/
+    icon: https://phoenixdentalassistantschool.com/assets/favicons/phoenixdentalassistantschool.com/favicon.ico
   - name: San Antonio Dental Assistant School
     url: https://sanantoniodentalassistantschool.com/
+    icon: https://sanantoniodentalassistantschool.com/assets/favicons/sanantoniodentalassistantschool.com/favicon.ico
   - name: San Antonio Medical Assistant School
     url: https://sanantoniomedicalassistant.com/
+    icon: https://sanantoniomedicalassistant.com/assets/favicons/sanantoniomedicalassistant.com/favicon.ico
   - name: San Francisco Medical Assistant School
     url: https://sanfranciscomedicalassistantschool.com/
+    icon: https://sanfranciscomedicalassistantschool.com/assets/favicons/sanfranciscomedicalassistantschool.com/favicon.ico
   - name: San Marcos Dental Assistant School
     url: https://sanmarcosdentalassistant.com/
+    icon: https://sanmarcosdentalassistant.com/assets/favicons/sanmarcosdentalassistant.com/favicon.ico
   - name: Savannah Dental Assistant School
     url: https://savannahdentalassistant.com/
+    icon: https://savannahdentalassistant.com/assets/favicons/savannahdentalassistant.com/favicon.ico
   - name: Searcy Dental Assistant School
     url: https://searcydentalassistant.com/
+    icon: https://searcydentalassistant.com/assets/favicons/searcydentalassistant.com/favicon.ico
   - name: Seattle Dental Assistant School
     url: https://seattledentalassistant.com/
+    icon: https://seattledentalassistant.com/assets/favicons/seattledentalassistant.com/favicon.ico
   - name: Shreveport Dental Assistant School
     url: https://shreveportdentalassistant.com/
+    icon: https://shreveportdentalassistant.com/assets/favicons/shreveportdentalassistant.com/favicon.ico
   - name: Snap Medical Assistant Academy
     url: https://snapmedicalassistant.com/
+    icon: https://snapmedicalassistant.com/assets/favicons/snapmedicalassistant.com/favicon.ico
   - name: South Bend Dental Assistant School
     url: https://southbenddentalassistant.com/
+    icon: https://southbenddentalassistant.com/assets/favicons/southbenddentalassistant.com/favicon.ico
   - name: Spokane Dental Assistant School
     url: https://spokanedentalassistant.com/
+    icon: https://spokanedentalassistant.com/assets/favicons/spokanedentalassistant.com/favicon.ico
   - name: St. John Dental Assistant School
     url: https://stjohndentalassistant.com/
+    icon: https://stjohndentalassistant.com/assets/favicons/stjohndentalassistant.com/favicon.ico
   - name: Tacoma Dental Assistant School
     url: https://tacomadentalassistant.com/
+    icon: https://tacomadentalassistant.com/assets/favicons/tacomadentalassistant.com/favicon.ico
   - name: Temple Dental Assistant School
     url: https://templedentalassistantschool.com/
+    icon: https://templedentalassistantschool.com/assets/favicons/templedentalassistantschool.com/favicon.ico
   - name: Terre Haute Dental Assistant School
     url: https://terrehautedentalassistant.com/
+    icon: https://terrehautedentalassistant.com/assets/favicons/terrehautedentalassistant.com/favicon.ico
   - name: Texas Dental Assistant School
     url: https://texasdentalassistantschool.com/
+    icon: https://texasdentalassistantschool.com/assets/favicons/texasdentalassistantschool.com/favicon.ico
   - name: Texas Tech Coding Academy
     url: https://texastechcodingacademy.com/
+    icon: https://texastechcodingacademy.com/assets/favicons/texastechcodingacademy.com/favicon.ico
   - name: Tucson Dental Assistant School
     url: https://tucsondentalassistantschool.com/
+    icon: https://tucsondentalassistantschool.com/assets/favicons/tucsondentalassistantschool.com/favicon.ico
   - name: Tulsa Dental Assistant School
     url: https://tulsadentalassistant.com/
+    icon: https://tulsadentalassistant.com/assets/favicons/tulsadentalassistant.com/favicon.ico
   - name: Tulsa Medical Assistant School
     url: https://tulsamedicalassistant.com/
+    icon: https://tulsamedicalassistant.com/assets/favicons/tulsamedicalassistant.com/favicon.ico
   - name: Tyler Dental Assistant School
     url: https://tylerdentalassistant.com/
+    icon: https://tylerdentalassistant.com/assets/favicons/tylerdentalassistant.com/favicon.ico
   - name: Waco Dental Assistant School
     url: https://dentalassistantschoolwaco.com/
+    icon: https://dentalassistantschoolwaco.com/assets/favicons/dentalassistantschoolwaco.com/favicon.ico
   - name: Wichita Falls Dental Assistant School
     url: https://wichitafallsdentalassistant.com/
+    icon: https://wichitafallsdentalassistant.com/assets/favicons/wichitafallsdentalassistant.com/favicon.ico
   - name: Wichita Falls Medical Assistant School
     url: https://wichitafallsmedicalassistant.com/
+    icon: https://wichitafallsmedicalassistant.com/assets/favicons/wichitafallsmedicalassistant.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
