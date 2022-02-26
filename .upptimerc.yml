@@ -7,6 +7,8 @@ sites:
     url: https://zql.zollege.com/api/ping/
   - name: Reports (Metabase)
     url: https://reports.zollege.com/api/health
+  - name: Lambda
+    url: https://4runw89p71.execute-api.us-west-1.amazonaws.com/latest/ping
   - name: Learn (Canvas)
     url: https://learn.zollege.com/health_check/
   - name: Zollege LTI (Canvas)
@@ -17,8 +19,10 @@ sites:
     url: https://openedx.zollege.com/ping/
   - name: Campus Manager
     url: https://campus.austincodingacademy.com/
-  - name: Jitsu
+  - name: Webhooks (Jitsu)
     url: https://zql-jitsu.herokuapp.com/ping
+  - name: Feedback (Fider)
+    url: https://feedback.zollege.com/_health
   - name: Zollege
     url: https://zollege.com/
   - name: Abilene Dental Assistant School
