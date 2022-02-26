@@ -9,6 +9,8 @@ sites:
     url: https://reports.zollege.com/api/health
   - name: Learn (Canvas)
     url: https://learn.zollege.com/health_check/
+  - name: Courses (Open edX)
+    url: https://courses.zollege.com/heartbeat
   - name: Zollege
     url: https://zollege.com/
   - name: Abilene Dental Assistant School
