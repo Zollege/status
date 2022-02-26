@@ -9,10 +9,16 @@ sites:
     url: https://reports.zollege.com/api/health
   - name: Learn (Canvas)
     url: https://learn.zollege.com/health_check/
+  - name: Zollege LTI (Canvas)
+    url: https://lti.zollege.com/ping/
   - name: Courses (Open edX)
     url: https://courses.zollege.com/heartbeat
+  - name: Zollege LTI (Open edX)
+    url: https://openedx.zollege.com/ping/
   - name: Campus Manager
     url: https://campus.austincodingacademy.com/
+  - name: Jitsu
+    url: https://zql-jitsu.herokuapp.com/ping
   - name: Zollege
     url: https://zollege.com/
   - name: Abilene Dental Assistant School
