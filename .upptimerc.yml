@@ -11,6 +11,8 @@ sites:
     url: https://learn.zollege.com/health_check/
   - name: Courses (Open edX)
     url: https://courses.zollege.com/heartbeat
+  - name: Campus Manager
+    url: https://campus.austincodingacademy.com/
   - name: Zollege
     url: https://zollege.com/
   - name: Abilene Dental Assistant School
