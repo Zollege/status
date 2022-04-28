@@ -4,9 +4,9 @@
     "url": "https://zql.zollege.com/api/ping/",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "zql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 137,
     "timeMonth": 136,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   },
   {
     "name": "Reports (Metabase)",
@@ -82,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/lti.zollege.com",
     "slug": "zollege-lti-canvas",
     "status": "up",
-    "uptime": "91.78%",
+    "uptime": "91.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "91.78%",
+    "uptimeYear": "91.90%",
     "time": 241,
     "timeDay": 103,
     "timeWeek": 217,
