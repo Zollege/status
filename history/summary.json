@@ -84,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/lti.zollege.com",
     "slug": "zollege-lti-canvas",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "93.65%",
+    "uptimeYear": "93.73%",
     "time": 238,
     "timeDay": 267,
     "timeWeek": 198,
@@ -176,9 +176,9 @@
     "url": "https://zql-jitsu.herokuapp.com/ping",
     "icon": "https://favicons.githubusercontent.com/zql-jitsu.herokuapp.com",
     "slug": "webhooks-jitsu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -187,7 +187,9 @@
     "timeWeek": 149,
     "timeMonth": 107,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Feedback (Fider)",
