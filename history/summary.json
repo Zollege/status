@@ -752,19 +752,19 @@
     "url": "http://dentondentalassistant.com/",
     "icon": "https://favicons.githubusercontent.com/dentondentalassistant.com",
     "slug": "denton-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 201,
-    "timeDay": 149,
-    "timeWeek": 208,
-    "timeMonth": 202,
+    "timeDay": 155,
+    "timeWeek": 203,
+    "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2022-05-19": 1
+      "2022-05-19": 7
     }
   },
   {
