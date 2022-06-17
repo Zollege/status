@@ -16,9 +16,9 @@ sites:
     icon: https://canvas-lms.s3.us-west-2.amazonaws.com/account_1/attachments/97/android-icon-48x48.png
   - name: Zollege LTI (Canvas)
     url: https://lti.zollege.com/ping/
-  - name: Courses (Open edX)
-    url: https://courses.zollege.com/heartbeat
-    icon: https://courses.zollege.com/static/zollege/images/favicon.6455cb07c50a.png
+#   - name: Courses (Open edX)
+#     url: https://courses.zollege.com/heartbeat
+#     icon: https://courses.zollege.com/static/zollege/images/favicon.6455cb07c50a.png
   - name: Zollege LTI (Open edX)
     url: https://openedx.zollege.com/ping/
   - name: Campus Manager
