@@ -6,9 +6,9 @@
     "slug": "zql",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 179,
     "timeDay": 89,
@@ -16,7 +16,7 @@
     "timeMonth": 234,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-06-21": 27,
+      "2022-06-21": 45,
       "2022-04-28": 28
     }
   },
@@ -88,19 +88,19 @@
     "url": "https://lti.zollege.com/ping/",
     "icon": "https://favicons.githubusercontent.com/lti.zollege.com",
     "slug": "zollege-lti-canvas",
-    "status": "down",
-    "uptime": "95.72%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "95.72%",
+    "status": "up",
+    "uptime": "95.71%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "95.71%",
     "time": 268,
-    "timeDay": 4593,
-    "timeWeek": 1224,
-    "timeMonth": 503,
+    "timeDay": 3117,
+    "timeWeek": 1118,
+    "timeMonth": 493,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2022-06-21": 26,
+      "2022-06-21": 39,
       "2022-05-02": 302,
       "2022-04-13": 48,
       "2022-04-08": 24,
@@ -129,18 +129,18 @@
     "icon": "https://favicons.githubusercontent.com/openedx.zollege.com",
     "slug": "zollege-lti-open-ed-x",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 243,
     "timeDay": 4589,
     "timeWeek": 1193,
     "timeMonth": 484,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-06-21": 26
+      "2022-06-21": 44
     }
   },
   {
@@ -149,18 +149,18 @@
     "icon": "https://campus.austincodingacademy.com/img/austin-logo.svg",
     "slug": "campus-manager",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 278,
     "timeDay": 305,
     "timeWeek": 287,
     "timeMonth": 300,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-06-21": 26
+      "2022-06-21": 44
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://feedback.zollege.com/static/favicon/logos/trICz1tcsyuNG3kRrp3LkeKmLzHz2j2j0stJg38Lxdl8rcWqtRgqsS0vAmqfNtwO-zollege-icon-blue_1-padding_white.png?size=64",
     "slug": "feedback-fider",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 297,
     "timeDay": 4592,
     "timeWeek": 1197,
     "timeMonth": 473,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2022-06-21": 26
+      "2022-06-21": 44
     }
   },
   {
@@ -207,18 +207,18 @@
     "icon": "https://zollege.com/wp-content/uploads/2019/06/cropped-zollege-logo-blue_icon-32x32.png",
     "slug": "zollege",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 229,
     "timeDay": 85,
     "timeWeek": 132,
     "timeMonth": 125,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-06-21": 24
+      "2022-06-21": 42
     }
   },
   {
@@ -226,19 +226,19 @@
     "url": "https://abilenedentalassistantschool.com/",
     "icon": "https://abilenedentalassistantschool.com/assets/favicons/abilenedentalassistantschool.com/favicon.ico",
     "slug": "abilene-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 125,
-    "timeWeek": 173,
+    "timeDay": 138,
+    "timeWeek": 172,
     "timeMonth": 166,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-06-21": 24
+      "2022-06-21": 36
     }
   },
   {
@@ -247,18 +247,18 @@
     "icon": "https://abilenemedicalassistant.com/assets/favicons/abilenemedicalassistant.com/favicon.ico",
     "slug": "abilene-medical-assistant-school",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 146,
     "timeDay": 82,
     "timeWeek": 170,
     "timeMonth": 169,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 24
+      "2022-06-21": 42
     }
   },
   {
@@ -266,19 +266,19 @@
     "url": "https://alvindentalassistant.com/",
     "icon": "https://alvindentalassistant.com/assets/favicons/alvindentalassistant.com/favicon.ico",
     "slug": "alvin-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 144,
-    "timeDay": 84,
-    "timeWeek": 173,
-    "timeMonth": 172,
+    "timeDay": 110,
+    "timeWeek": 172,
+    "timeMonth": 171,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-06-21": 24
+      "2022-06-21": 37
     }
   },
   {
@@ -286,19 +286,19 @@
     "url": "https://amarillodentalassistantschool.com/",
     "icon": "https://amarillodentalassistantschool.com/assets/favicons/amarillodentalassistantschool.com/favicon.ico",
     "slug": "amarillo-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 137,
-    "timeDay": 88,
+    "timeDay": 105,
     "timeWeek": 135,
     "timeMonth": 146,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-06-21": 24
+      "2022-06-21": 37
     }
   },
   {
@@ -306,19 +306,19 @@
     "url": "https://amarillomedicalassistantschool.com/",
     "icon": "https://amarillomedicalassistantschool.com/assets/favicons/amarillomedicalassistantschool.com/favicon.ico",
     "slug": "amarillo-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 255,
-    "timeDay": 7718,
-    "timeWeek": 1835,
-    "timeMonth": 626,
-    "timeYear": 255,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 254,
+    "timeDay": 5189,
+    "timeWeek": 1664,
+    "timeMonth": 612,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2022-06-21": 24
+      "2022-06-21": 37
     }
   },
   {
@@ -326,19 +326,19 @@
     "url": "https://archdentalacademy.com/",
     "icon": "https://archdentalacademy.com/assets/favicons/archdentalacademy.com/favicon.ico",
     "slug": "arch-dental-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 262,
-    "timeDay": 7896,
-    "timeWeek": 1882,
-    "timeMonth": 645,
+    "timeDay": 5315,
+    "timeWeek": 1709,
+    "timeMonth": 630,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-06-21": 23
+      "2022-06-21": 36
     }
   },
   {
@@ -346,19 +346,19 @@
     "url": "https://atlantadentalassistantschool.com/",
     "icon": "https://atlantadentalassistantschool.com/assets/favicons/atlantadentalassistantschool.com/favicon.ico",
     "slug": "atlanta-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 261,
-    "timeDay": 7808,
-    "timeWeek": 1870,
-    "timeMonth": 627,
-    "timeYear": 261,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 260,
+    "timeDay": 5252,
+    "timeWeek": 1697,
+    "timeMonth": 613,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-06-21": 23
+      "2022-06-21": 36
     }
   },
   {
@@ -366,19 +366,19 @@
     "url": "https://atlantamedicalassistant.com/",
     "icon": "https://atlantamedicalassistant.com/assets/favicons/atlantamedicalassistant.com/favicon.ico",
     "slug": "atlanta-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 155,
-    "timeDay": 107,
-    "timeWeek": 142,
+    "timeDay": 121,
+    "timeWeek": 143,
     "timeMonth": 158,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-06-21": 23
+      "2022-06-21": 36
     }
   },
   {
@@ -386,19 +386,19 @@
     "url": "https://augustadentalassistant.com/",
     "icon": "https://augustadentalassistant.com/assets/favicons/augustadentalassistant.com/favicon.ico",
     "slug": "augusta-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 146,
-    "timeDay": 103,
-    "timeWeek": 150,
+    "timeDay": 127,
+    "timeWeek": 153,
     "timeMonth": 154,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 23
+      "2022-06-21": 36
     }
   },
   {
@@ -406,19 +406,19 @@
     "url": "https://austincodingacademy.com/",
     "icon": "https://austincodingacademy.com/assets/favicons/austincodingacademy.com/favicon.ico",
     "slug": "austin-coding-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 179,
-    "timeDay": 91,
-    "timeWeek": 155,
+    "timeDay": 115,
+    "timeWeek": 156,
     "timeMonth": 146,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-06-21": 23
+      "2022-06-21": 36
     }
   },
   {
@@ -427,18 +427,18 @@
     "icon": "https://austindentalassistantschool.com/assets/favicons/austindentalassistantschool.com/favicon.ico",
     "slug": "austin-dental-assistant-school",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 165,
     "timeDay": 94,
     "timeWeek": 163,
     "timeMonth": 173,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 41
     }
   },
   {
@@ -446,19 +446,19 @@
     "url": "https://austinmedicalassistantschool.com/",
     "icon": "https://austinmedicalassistantschool.com/assets/favicons/austinmedicalassistantschool.com/favicon.ico",
     "slug": "austin-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 145,
-    "timeDay": 95,
-    "timeWeek": 163,
+    "timeDay": 112,
+    "timeWeek": 162,
     "timeMonth": 161,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -466,19 +466,19 @@
     "url": "https://batonrougedentalassistant.com/",
     "icon": "https://batonrougedentalassistant.com/assets/favicons/batonrougedentalassistant.com/favicon.ico",
     "slug": "baton-rouge-dental-assistant-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 254,
-    "timeDay": 7885,
-    "timeWeek": 1880,
-    "timeMonth": 624,
-    "timeYear": 254,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 253,
+    "timeDay": 5304,
+    "timeWeek": 1706,
+    "timeMonth": 610,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -486,19 +486,19 @@
     "url": "https://bellinghamdentalassistant.com/",
     "icon": "https://bellinghamdentalassistant.com/assets/favicons/bellinghamdentalassistant.com/favicon.ico",
     "slug": "bellingham-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 143,
-    "timeDay": 92,
-    "timeWeek": 163,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 144,
+    "timeDay": 116,
+    "timeWeek": 164,
     "timeMonth": 160,
-    "timeYear": 143,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -506,19 +506,19 @@
     "url": "https://birminghamdentalassistant.com/",
     "icon": "https://birminghamdentalassistant.com/assets/favicons/birminghamdentalassistant.com/favicon.ico",
     "slug": "birmingham-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 138,
-    "timeDay": 86,
-    "timeWeek": 160,
-    "timeMonth": 161,
+    "timeDay": 104,
+    "timeWeek": 158,
+    "timeMonth": 160,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -526,19 +526,19 @@
     "url": "https://bloomingtondentalassistant.com/",
     "icon": "https://bloomingtondentalassistant.com/assets/favicons/bloomingtondentalassistant.com/favicon.ico",
     "slug": "bloomington-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 112,
-    "timeWeek": 161,
-    "timeMonth": 164,
+    "timeDay": 145,
+    "timeWeek": 166,
+    "timeMonth": 165,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -546,19 +546,19 @@
     "url": "https://bremertondentalassistant.com/",
     "icon": "https://bremertondentalassistant.com/assets/favicons/bremertondentalassistant.com/favicon.ico",
     "slug": "bremerton-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 138,
-    "timeDay": 87,
-    "timeWeek": 137,
-    "timeMonth": 163,
+    "timeDay": 100,
+    "timeWeek": 136,
+    "timeMonth": 162,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -566,19 +566,19 @@
     "url": "https://brownsvilledentalassistant.com/",
     "icon": "https://brownsvilledentalassistant.com/assets/favicons/brownsvilledentalassistant.com/favicon.ico",
     "slug": "brownsville-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 146,
-    "timeDay": 112,
-    "timeWeek": 186,
+    "timeDay": 129,
+    "timeWeek": 183,
     "timeMonth": 169,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -586,19 +586,19 @@
     "url": "https://centraliadentalassistant.com/",
     "icon": "https://centraliadentalassistant.com/assets/favicons/centraliadentalassistant.com/favicon.ico",
     "slug": "centralia-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 258,
-    "timeDay": 7725,
-    "timeWeek": 1838,
-    "timeMonth": 630,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 257,
+    "timeDay": 5204,
+    "timeWeek": 1671,
+    "timeMonth": 616,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 35
     }
   },
   {
@@ -607,18 +607,18 @@
     "icon": "https://charlottedentalassistantschool.com/assets/favicons/charlottedentalassistantschool.com/favicon.ico",
     "slug": "charlotte-dental-assistant-school",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 148,
     "timeDay": 80,
     "timeWeek": 166,
     "timeMonth": 181,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-06-21": 21
+      "2022-06-21": 39
     }
   },
   {
@@ -626,19 +626,19 @@
     "url": "https://chicagodentalassistantschool.com/",
     "icon": "https://chicagodentalassistantschool.com/assets/favicons/chicagodentalassistantschool.com/favicon.ico",
     "slug": "chicago-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 179,
-    "timeDay": 2489,
-    "timeWeek": 698,
-    "timeMonth": 306,
+    "timeDay": 1707,
+    "timeWeek": 642,
+    "timeMonth": 302,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-06-21": 21
+      "2022-06-21": 35
     }
   },
   {
@@ -646,19 +646,19 @@
     "url": "https://collegestationdentalassistant.com/",
     "icon": "https://collegestationdentalassistant.com/assets/favicons/collegestationdentalassistant.com/favicon.ico",
     "slug": "college-station-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 274,
-    "timeDay": 8877,
-    "timeWeek": 2104,
-    "timeMonth": 692,
-    "timeYear": 274,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 273,
+    "timeDay": 5963,
+    "timeWeek": 1907,
+    "timeMonth": 676,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-06-21": 21
+      "2022-06-21": 34
     }
   },
   {
@@ -666,19 +666,19 @@
     "url": "https://collegestationmedicalassistant.com/",
     "icon": "https://collegestationmedicalassistant.com/assets/favicons/collegestationmedicalassistant.com/favicon.ico",
     "slug": "college-station-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 140,
-    "timeDay": 64,
+    "timeDay": 101,
     "timeWeek": 178,
     "timeMonth": 173,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-06-21": 21
+      "2022-06-21": 34
     }
   },
   {
@@ -686,19 +686,19 @@
     "url": "https://coloradodentalassistant.com/",
     "icon": "https://coloradodentalassistant.com/assets/favicons/coloradodentalassistant.com/favicon.ico",
     "slug": "colorado-dental-assistant-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 165,
-    "timeDay": 87,
-    "timeWeek": 183,
-    "timeMonth": 173,
+    "timeDay": 109,
+    "timeWeek": 180,
+    "timeMonth": 172,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2022-06-21": 20
+      "2022-06-21": 34
     }
   },
   {
@@ -706,19 +706,19 @@
     "url": "https://corpuschristidentalassistant.com/",
     "icon": "https://corpuschristidentalassistant.com/assets/favicons/corpuschristidentalassistant.com/favicon.ico",
     "slug": "corpus-christi-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 305,
-    "timeDay": 11599,
-    "timeWeek": 2705,
-    "timeMonth": 841,
-    "timeYear": 305,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 303,
+    "timeDay": 7784,
+    "timeWeek": 2450,
+    "timeMonth": 821,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2022-06-21": 20
+      "2022-06-21": 34
     }
   },
   {
@@ -726,19 +726,19 @@
     "url": "https://corpuschristimedicalassistant.com/",
     "icon": "https://corpuschristimedicalassistant.com/assets/favicons/corpuschristimedicalassistant.com/favicon.ico",
     "slug": "corpus-christi-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 93,
-    "timeWeek": 168,
-    "timeMonth": 163,
+    "timeDay": 122,
+    "timeWeek": 169,
+    "timeMonth": 164,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-06-21": 20
+      "2022-06-21": 34
     }
   },
   {
@@ -746,19 +746,19 @@
     "url": "https://dallasdentalassistantschool.com/",
     "icon": "https://dallasdentalassistantschool.com/assets/favicons/dallasdentalassistantschool.com/favicon.ico",
     "slug": "dallas-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 144,
-    "timeDay": 97,
-    "timeWeek": 143,
+    "timeDay": 116,
+    "timeWeek": 145,
     "timeMonth": 150,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-06-21": 20
+      "2022-06-21": 34
     }
   },
   {
@@ -766,19 +766,19 @@
     "url": "https://dallasmedicalassistant.com/",
     "icon": "https://dallasmedicalassistant.com/assets/favicons/dallasmedicalassistant.com/favicon.ico",
     "slug": "dallas-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 135,
-    "timeDay": 88,
-    "timeWeek": 156,
+    "timeDay": 128,
+    "timeWeek": 158,
     "timeMonth": 159,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-06-21": 19
+      "2022-06-21": 33
     }
   },
   {
@@ -786,19 +786,19 @@
     "url": "https://daltondentalassistant.com/",
     "icon": "https://daltondentalassistant.com/assets/favicons/daltondentalassistant.com/favicon.ico",
     "slug": "dalton-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 144,
-    "timeDay": 116,
-    "timeWeek": 177,
-    "timeMonth": 171,
+    "timeDay": 120,
+    "timeWeek": 173,
+    "timeMonth": 170,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-06-21": 19
+      "2022-06-21": 33
     }
   },
   {
@@ -806,19 +806,19 @@
     "url": "http://dentondentalassistant.com/",
     "icon": "https://favicons.githubusercontent.com/dentondentalassistant.com",
     "slug": "denton-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 208,
-    "timeDay": 123,
-    "timeWeek": 205,
-    "timeMonth": 227,
+    "timeDay": 175,
+    "timeWeek": 212,
+    "timeMonth": 229,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2022-06-21": 19
+      "2022-06-21": 33
     }
   },
   {
@@ -826,19 +826,19 @@
     "url": "https://denverdentalassistant.com/",
     "icon": "https://denverdentalassistant.com/assets/favicons/denverdentalassistant.com/favicon.ico",
     "slug": "denver-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 141,
-    "timeDay": 85,
-    "timeWeek": 155,
+    "timeDay": 103,
+    "timeWeek": 154,
     "timeMonth": 158,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-06-21": 19
+      "2022-06-21": 33
     }
   },
   {
@@ -846,19 +846,19 @@
     "url": "https://duncanvilledentalassistant.com/",
     "icon": "https://duncanvilledentalassistant.com/assets/favicons/duncanvilledentalassistant.com/favicon.ico",
     "slug": "duncanville-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 157,
-    "timeDay": 1085,
-    "timeWeek": 385,
-    "timeMonth": 231,
+    "timeDay": 773,
+    "timeWeek": 362,
+    "timeMonth": 229,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-21": 18
+      "2022-06-21": 32
     }
   },
   {
@@ -866,19 +866,19 @@
     "url": "https://elpasodentalassistant.com/",
     "icon": "https://elpasodentalassistant.com/assets/favicons/elpasodentalassistant.com/favicon.ico",
     "slug": "el-paso-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 272,
-    "timeDay": 7961,
-    "timeWeek": 1912,
-    "timeMonth": 648,
-    "timeYear": 272,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 271,
+    "timeDay": 5363,
+    "timeWeek": 1737,
+    "timeMonth": 634,
+    "timeYear": 271,
     "dailyMinutesDown": {
-      "2022-06-21": 18
+      "2022-06-21": 32
     }
   },
   {
@@ -887,18 +887,18 @@
     "icon": "https://elpasomedicalassistant.com/assets/favicons/elpasomedicalassistant.com/favicon.ico",
     "slug": "el-paso-medical-assistant-school",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 139,
     "timeDay": 82,
     "timeWeek": 166,
     "timeMonth": 157,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-06-21": 18
+      "2022-06-21": 36
     }
   },
   {
@@ -906,19 +906,19 @@
     "url": "https://evansvilledentalassistantschool.com/",
     "icon": "https://evansvilledentalassistantschool.com/assets/favicons/evansvilledentalassistantschool.com/favicon.ico",
     "slug": "evansville-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 313,
-    "timeDay": 178,
-    "timeWeek": 307,
-    "timeMonth": 329,
+    "timeDay": 265,
+    "timeWeek": 312,
+    "timeMonth": 330,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2022-06-21": 17
+      "2022-06-21": 32
     }
   },
   {
@@ -926,19 +926,19 @@
     "url": "https://fortworthdentalassistant.com/",
     "icon": "https://fortworthdentalassistant.com/assets/favicons/fortworthdentalassistant.com/favicon.ico",
     "slug": "fort-worth-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 141,
-    "timeDay": 77,
-    "timeWeek": 137,
+    "timeDay": 103,
+    "timeWeek": 139,
     "timeMonth": 153,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-06-21": 17
+      "2022-06-21": 29
     }
   },
   {
@@ -946,19 +946,19 @@
     "url": "https://franklindentalassistant.com/",
     "icon": "https://franklindentalassistant.com/assets/favicons/franklindentalassistant.com/favicon.ico",
     "slug": "franklin-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 253,
-    "timeDay": 7828,
-    "timeWeek": 1858,
-    "timeMonth": 619,
-    "timeYear": 253,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 252,
+    "timeDay": 5266,
+    "timeWeek": 1687,
+    "timeMonth": 605,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-06-21": 17
+      "2022-06-21": 31
     }
   },
   {
@@ -966,19 +966,19 @@
     "url": "https://georgiadentalassistantschool.com/",
     "icon": "https://georgiadentalassistantschool.com/assets/favicons/georgiadentalassistantschool.com/favicon.ico",
     "slug": "georgia-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 158,
-    "timeDay": 102,
+    "timeDay": 118,
     "timeWeek": 149,
-    "timeMonth": 235,
+    "timeMonth": 233,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-06-21": 17
+      "2022-06-21": 31
     }
   },
   {
@@ -986,19 +986,19 @@
     "url": "https://gonzalesmedicalassistant.com/",
     "icon": "https://gonzalesmedicalassistant.com/assets/favicons/gonzalesmedicalassistant.com/favicon.ico",
     "slug": "gonzales-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 145,
-    "timeDay": 92,
-    "timeWeek": 163,
-    "timeMonth": 165,
-    "timeYear": 145,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 146,
+    "timeDay": 136,
+    "timeWeek": 170,
+    "timeMonth": 167,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 17
+      "2022-06-21": 31
     }
   },
   {
@@ -1006,19 +1006,19 @@
     "url": "https://granburymedicalassistant.com/",
     "icon": "https://granburymedicalassistant.com/assets/favicons/granburymedicalassistant.com/favicon.ico",
     "slug": "granbury-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 251,
-    "timeDay": 7748,
-    "timeWeek": 1845,
-    "timeMonth": 622,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 250,
+    "timeDay": 5214,
+    "timeWeek": 1675,
+    "timeMonth": 608,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 31
     }
   },
   {
@@ -1026,19 +1026,19 @@
     "url": "https://grapevinedentalassistantschool.com/",
     "icon": "https://grapevinedentalassistantschool.com/assets/favicons/grapevinedentalassistantschool.com/favicon.ico",
     "slug": "grapevine-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 134,
-    "timeDay": 80,
-    "timeWeek": 139,
+    "timeDay": 108,
+    "timeWeek": 141,
     "timeMonth": 148,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 31
     }
   },
   {
@@ -1046,19 +1046,19 @@
     "url": "https://houmadentalassistant.com/",
     "icon": "https://houmadentalassistant.com/assets/favicons/houmadentalassistant.com/favicon.ico",
     "slug": "houma-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 139,
-    "timeDay": 81,
-    "timeWeek": 134,
+    "timeDay": 102,
+    "timeWeek": 135,
     "timeMonth": 144,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 31
     }
   },
   {
@@ -1066,19 +1066,19 @@
     "url": "https://houstondentalassistant.com/",
     "icon": "https://houstondentalassistant.com/assets/favicons/houstondentalassistant.com/favicon.ico",
     "slug": "houston-dental-assistant-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 263,
-    "timeDay": 7809,
-    "timeWeek": 1879,
-    "timeMonth": 634,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 262,
+    "timeDay": 5259,
+    "timeWeek": 1707,
+    "timeMonth": 620,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 30
     }
   },
   {
@@ -1086,19 +1086,19 @@
     "url": "https://huntsvilledentalassistant.com/",
     "icon": "https://huntsvilledentalassistant.com/assets/favicons/huntsvilledentalassistant.com/favicon.ico",
     "slug": "huntsville-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 149,
-    "timeDay": 108,
-    "timeWeek": 164,
+    "timeDay": 119,
+    "timeWeek": 163,
     "timeMonth": 169,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 30
     }
   },
   {
@@ -1106,19 +1106,19 @@
     "url": "https://huntsvilledentalassistantschool.com/",
     "icon": "https://huntsvilledentalassistantschool.com/assets/favicons/huntsvilledentalassistantschool.com/favicon.ico",
     "slug": "huntsville-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 149,
-    "timeDay": 108,
-    "timeWeek": 164,
+    "timeDay": 119,
+    "timeWeek": 163,
     "timeMonth": 169,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 30
     }
   },
   {
@@ -1126,19 +1126,19 @@
     "url": "https://indydentalassistantschool.com/",
     "icon": "https://indydentalassistantschool.com/assets/favicons/indydentalassistantschool.com/favicon.ico",
     "slug": "indianapolis-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 140,
-    "timeDay": 58,
-    "timeWeek": 141,
-    "timeMonth": 160,
+    "timeDay": 118,
+    "timeWeek": 145,
+    "timeMonth": 161,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-06-21": 15
+      "2022-06-21": 30
     }
   },
   {
@@ -1146,19 +1146,19 @@
     "url": "https://jacksonvilledentalassistantschool.com/",
     "icon": "https://jacksonvilledentalassistantschool.com/assets/favicons/jacksonvilledentalassistantschool.com/favicon.ico",
     "slug": "jacksonville-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 246,
-    "timeDay": 7691,
-    "timeWeek": 1838,
-    "timeMonth": 615,
-    "timeYear": 246,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 245,
+    "timeDay": 5171,
+    "timeWeek": 1667,
+    "timeMonth": 600,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2022-06-21": 15
+      "2022-06-21": 29
     }
   },
   {
@@ -1166,19 +1166,19 @@
     "url": "https://jeffersonvilledentalassistant.com/",
     "icon": "https://jeffersonvilledentalassistant.com/assets/favicons/jeffersonvilledentalassistant.com/favicon.ico",
     "slug": "jeffersonville-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 265,
-    "timeDay": 7697,
-    "timeWeek": 1874,
-    "timeMonth": 639,
+    "timeDay": 5208,
+    "timeWeek": 1710,
+    "timeMonth": 627,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-06-21": 14
+      "2022-06-21": 29
     }
   },
   {
@@ -1186,19 +1186,19 @@
     "url": "https://lafayettedentalassistant.com/",
     "icon": "https://lafayettedentalassistant.com/assets/favicons/lafayettedentalassistant.com/favicon.ico",
     "slug": "lafayette-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 259,
-    "timeDay": 7720,
-    "timeWeek": 1874,
-    "timeMonth": 634,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 258,
+    "timeDay": 5198,
+    "timeWeek": 1702,
+    "timeMonth": 620,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2022-06-21": 14
+      "2022-06-21": 29
     }
   },
   {
@@ -1206,19 +1206,19 @@
     "url": "https://lakejacksonmedicalassistant.com/",
     "icon": "https://lakejacksonmedicalassistant.com/assets/favicons/lakejacksonmedicalassistant.com/favicon.ico",
     "slug": "lake-jackson-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 138,
-    "timeDay": 103,
-    "timeWeek": 150,
-    "timeMonth": 154,
+    "timeDay": 116,
+    "timeWeek": 149,
+    "timeMonth": 153,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-06-21": 14
+      "2022-06-21": 29
     }
   },
   {
@@ -1226,19 +1226,19 @@
     "url": "https://lasvegasdentalassistant.com/",
     "icon": "https://lasvegasdentalassistant.com/assets/favicons/lasvegasdentalassistant.com/favicon.ico",
     "slug": "las-vegas-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 148,
-    "timeDay": 68,
-    "timeWeek": 143,
-    "timeMonth": 165,
+    "timeDay": 112,
+    "timeWeek": 149,
+    "timeMonth": 166,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-06-21": 14
+      "2022-06-21": 29
     }
   },
   {
@@ -1246,19 +1246,19 @@
     "url": "https://lasvegasmedicalassistant.com/",
     "icon": "https://lasvegasmedicalassistant.com/assets/favicons/lasvegasmedicalassistant.com/favicon.ico",
     "slug": "las-vegas-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 151,
-    "timeDay": 156,
-    "timeWeek": 168,
-    "timeMonth": 165,
+    "timeDay": 168,
+    "timeWeek": 169,
+    "timeMonth": 166,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-06-21": 14
+      "2022-06-21": 28
     }
   },
   {
@@ -1266,19 +1266,19 @@
     "url": "https://leaguecitymedicalassistant.com/",
     "icon": "https://leaguecitymedicalassistant.com/assets/favicons/leaguecitymedicalassistant.com/favicon.ico",
     "slug": "league-city-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 144,
-    "timeDay": 80,
-    "timeWeek": 156,
-    "timeMonth": 167,
+    "timeDay": 132,
+    "timeWeek": 159,
+    "timeMonth": 168,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-06-21": 13
+      "2022-06-21": 28
     }
   },
   {
@@ -1286,19 +1286,19 @@
     "url": "https://littlerockdentalassistant.com/",
     "icon": "https://littlerockdentalassistant.com/assets/favicons/littlerockdentalassistant.com/favicon.ico",
     "slug": "little-rock-dental-assistant-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 159,
-    "timeDay": 127,
-    "timeWeek": 148,
-    "timeMonth": 167,
+    "timeDay": 156,
+    "timeWeek": 155,
+    "timeMonth": 168,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-06-21": 13
+      "2022-06-21": 27
     }
   },
   {
@@ -1306,19 +1306,19 @@
     "url": "https://louisianadentalassistantacademy.com/",
     "icon": "https://louisianadentalassistantacademy.com/assets/favicons/louisianadentalassistantacademy.com/favicon.ico",
     "slug": "louisiana-dental-assistant-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 322,
-    "timeDay": 8147,
-    "timeWeek": 1955,
-    "timeMonth": 699,
-    "timeYear": 322,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 321,
+    "timeDay": 5496,
+    "timeWeek": 1778,
+    "timeMonth": 684,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2022-06-21": 12
+      "2022-06-21": 27
     }
   },
   {
@@ -1326,19 +1326,19 @@
     "url": "https://lubbockcodingacademy.com/",
     "icon": "https://lubbockcodingacademy.com/assets/favicons/lubbockcodingacademy.com/favicon.ico",
     "slug": "lubbock-coding-academy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 163,
-    "timeDay": 76,
-    "timeWeek": 169,
+    "timeDay": 117,
+    "timeWeek": 167,
     "timeMonth": 168,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2022-06-21": 12
+      "2022-06-21": 27
     }
   },
   {
@@ -1346,19 +1346,19 @@
     "url": "https://lubbockdentalassistantschool.com/",
     "icon": "https://lubbockdentalassistantschool.com/assets/favicons/lubbockdentalassistantschool.com/favicon.ico",
     "slug": "lubbock-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 146,
-    "timeDay": 116,
+    "timeDay": 127,
     "timeWeek": 151,
-    "timeMonth": 176,
+    "timeMonth": 175,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 12
+      "2022-06-21": 27
     }
   },
   {
@@ -1366,19 +1366,19 @@
     "url": "https://lubbockmedicalassistant.com/",
     "icon": "https://lubbockmedicalassistant.com/assets/favicons/lubbockmedicalassistant.com/favicon.ico",
     "slug": "lubbock-medical-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 137,
-    "timeDay": 106,
+    "timeDay": 126,
     "timeWeek": 145,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-06-21": 11
+      "2022-06-21": 26
     }
   },
   {
@@ -1386,19 +1386,19 @@
     "url": "https://magnoliadentalassistant.com/",
     "icon": "https://magnoliadentalassistant.com/assets/favicons/magnoliadentalassistant.com/favicon.ico",
     "slug": "magnolia-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 142,
-    "timeDay": 84,
-    "timeWeek": 141,
-    "timeMonth": 165,
+    "timeDay": 132,
+    "timeWeek": 150,
+    "timeMonth": 167,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-06-21": 11
+      "2022-06-21": 26
     }
   },
   {
@@ -1407,18 +1407,18 @@
     "icon": "https://mckinneydentalassistant.com/assets/favicons/mckinneydentalassistant.com/favicon.ico",
     "slug": "mc-kinney-dental-assistant-school",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 168,
     "timeDay": 114,
     "timeWeek": 512,
     "timeMonth": 265,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2022-06-21": 11
+      "2022-06-21": 29
     }
   },
   {
@@ -1426,19 +1426,19 @@
     "url": "https://midlanddentalassistant.com/",
     "icon": "https://midlanddentalassistant.com/assets/favicons/midlanddentalassistant.com/favicon.ico",
     "slug": "midland-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 140,
-    "timeDay": 76,
-    "timeWeek": 135,
+    "timeDay": 103,
+    "timeWeek": 137,
     "timeMonth": 160,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-06-21": 11
+      "2022-06-21": 26
     }
   },
   {
@@ -1446,19 +1446,19 @@
     "url": "https://montgomerydentalassistant.com/",
     "icon": "https://montgomerydentalassistant.com/assets/favicons/montgomerydentalassistant.com/favicon.ico",
     "slug": "montgomery-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 157,
-    "timeDay": 92,
-    "timeWeek": 142,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 158,
+    "timeDay": 116,
+    "timeWeek": 144,
     "timeMonth": 164,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-06-21": 11
+      "2022-06-21": 26
     }
   },
   {
@@ -1466,19 +1466,19 @@
     "url": "https://moseslakedentalassistant.com/",
     "icon": "https://moseslakedentalassistant.com/assets/favicons/moseslakedentalassistant.com/favicon.ico",
     "slug": "moses-lake-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 136,
-    "timeDay": 88,
-    "timeWeek": 148,
-    "timeMonth": 164,
+    "timeDay": 104,
+    "timeWeek": 147,
+    "timeMonth": 163,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2022-06-21": 11
+      "2022-06-21": 26
     }
   },
   {
@@ -1486,19 +1486,19 @@
     "url": "https://nacogdochesdentalassistant.com/",
     "icon": "https://nacogdochesdentalassistant.com/assets/favicons/nacogdochesdentalassistant.com/favicon.ico",
     "slug": "nacogdoches-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 151,
-    "timeDay": 90,
-    "timeWeek": 146,
-    "timeMonth": 170,
+    "timeDay": 106,
+    "timeWeek": 145,
+    "timeMonth": 169,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-06-21": 10
+      "2022-06-21": 26
     }
   },
   {
@@ -1506,19 +1506,19 @@
     "url": "https://newbraunfelsdentalassistant.com/",
     "icon": "https://newbraunfelsdentalassistant.com/assets/favicons/newbraunfelsdentalassistant.com/favicon.ico",
     "slug": "new-braunfels-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 95,
-    "timeWeek": 197,
-    "timeMonth": 179,
+    "timeDay": 118,
+    "timeWeek": 191,
+    "timeMonth": 177,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-06-21": 10
+      "2022-06-21": 25
     }
   },
   {
@@ -1526,19 +1526,19 @@
     "url": "https://neworleansdentalassistant.com/",
     "icon": "https://neworleansdentalassistant.com/assets/favicons/neworleansdentalassistant.com/favicon.ico",
     "slug": "new-orleans-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 77,
-    "timeWeek": 133,
+    "timeDay": 117,
+    "timeWeek": 136,
     "timeMonth": 152,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-06-21": 9
+      "2022-06-21": 25
     }
   },
   {
@@ -1546,19 +1546,19 @@
     "url": "https://odessadentalassistantschool.com/",
     "icon": "https://odessadentalassistantschool.com/assets/favicons/odessadentalassistantschool.com/favicon.ico",
     "slug": "odessa-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 143,
-    "timeDay": 87,
-    "timeWeek": 152,
-    "timeMonth": 164,
+    "timeDay": 102,
+    "timeWeek": 150,
+    "timeMonth": 163,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2022-06-21": 9
+      "2022-06-21": 25
     }
   },
   {
@@ -1566,19 +1566,19 @@
     "url": "https://ohiodentalassistantschool.com/",
     "icon": "https://ohiodentalassistantschool.com/assets/favicons/ohiodentalassistantschool.com/favicon.ico",
     "slug": "ohio-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 7743,
-    "timeWeek": 1832,
-    "timeMonth": 623,
+    "timeDay": 5234,
+    "timeWeek": 1670,
+    "timeMonth": 611,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-06-21": 9
+      "2022-06-21": 25
     }
   },
   {
@@ -1586,19 +1586,19 @@
     "url": "https://oklahomacitydentalassistant.com/",
     "icon": "https://oklahomacitydentalassistant.com/assets/favicons/oklahomacitydentalassistant.com/favicon.ico",
     "slug": "oklahoma-city-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 85,
-    "timeWeek": 147,
-    "timeMonth": 167,
+    "timeDay": 97,
+    "timeWeek": 145,
+    "timeMonth": 166,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-06-21": 9
+      "2022-06-21": 24
     }
   },
   {
@@ -1606,19 +1606,19 @@
     "url": "https://olympiadentalassistant.com/",
     "icon": "https://olympiadentalassistant.com/assets/favicons/olympiadentalassistant.com/favicon.ico",
     "slug": "olympia-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 7706,
-    "timeWeek": 1864,
-    "timeMonth": 651,
-    "timeYear": 280,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 279,
+    "timeDay": 5211,
+    "timeWeek": 1700,
+    "timeMonth": 638,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-06-21": 8
+      "2022-06-21": 24
     }
   },
   {
@@ -1627,18 +1627,18 @@
     "icon": "https://philadelphiamedicalassistantschool.com/assets/favicons/philadelphiamedicalassistantschool.com/favicon.ico",
     "slug": "philadelphia-medical-assistant-school",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 274,
     "timeDay": 122,
     "timeWeek": 211,
     "timeMonth": 221,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 24
     }
   },
   {
@@ -1646,19 +1646,19 @@
     "url": "https://phoenixdentalassistantschool.com/",
     "icon": "https://phoenixdentalassistantschool.com/assets/favicons/phoenixdentalassistantschool.com/favicon.ico",
     "slug": "phoenix-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 157,
-    "timeDay": 106,
+    "timeDay": 119,
     "timeWeek": 140,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 23
     }
   },
   {
@@ -1666,19 +1666,19 @@
     "url": "https://sanantoniodentalassistantschool.com/",
     "icon": "https://sanantoniodentalassistantschool.com/assets/favicons/sanantoniodentalassistantschool.com/favicon.ico",
     "slug": "san-antonio-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 89,
-    "timeWeek": 158,
+    "timeDay": 118,
+    "timeWeek": 160,
     "timeMonth": 178,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 23
     }
   },
   {
@@ -1686,19 +1686,19 @@
     "url": "https://sanantoniomedicalassistant.com/",
     "icon": "https://sanantoniomedicalassistant.com/assets/favicons/sanantoniomedicalassistant.com/favicon.ico",
     "slug": "san-antonio-medical-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 105,
-    "timeWeek": 152,
+    "timeDay": 126,
+    "timeWeek": 153,
     "timeMonth": 163,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 23
     }
   },
   {
@@ -1706,19 +1706,19 @@
     "url": "https://sanmarcosdentalassistant.com/",
     "icon": "https://sanmarcosdentalassistant.com/assets/favicons/sanmarcosdentalassistant.com/favicon.ico",
     "slug": "san-marcos-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 75,
-    "timeWeek": 143,
-    "timeMonth": 152,
+    "timeDay": 90,
+    "timeWeek": 141,
+    "timeMonth": 151,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 23
     }
   },
   {
@@ -1726,19 +1726,19 @@
     "url": "https://savannahdentalassistant.com/",
     "icon": "https://savannahdentalassistant.com/assets/favicons/savannahdentalassistant.com/favicon.ico",
     "slug": "savannah-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 114,
-    "timeWeek": 192,
-    "timeMonth": 183,
+    "timeDay": 115,
+    "timeWeek": 183,
+    "timeMonth": 181,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-06-21": 6
+      "2022-06-21": 22
     }
   },
   {
@@ -1746,19 +1746,19 @@
     "url": "https://searcydentalassistant.com/",
     "icon": "https://searcydentalassistant.com/assets/favicons/searcydentalassistant.com/favicon.ico",
     "slug": "searcy-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 97,
-    "timeWeek": 152,
-    "timeMonth": 169,
+    "timeDay": 105,
+    "timeWeek": 150,
+    "timeMonth": 167,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 6
+      "2022-06-21": 22
     }
   },
   {
@@ -1766,19 +1766,19 @@
     "url": "https://seattledentalassistant.com/",
     "icon": "https://seattledentalassistant.com/assets/favicons/seattledentalassistant.com/favicon.ico",
     "slug": "seattle-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 85,
-    "timeWeek": 155,
+    "timeDay": 119,
+    "timeWeek": 158,
     "timeMonth": 166,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-06-21": 6
+      "2022-06-21": 22
     }
   },
   {
@@ -1786,19 +1786,19 @@
     "url": "https://shreveportdentalassistant.com/",
     "icon": "https://shreveportdentalassistant.com/assets/favicons/shreveportdentalassistant.com/favicon.ico",
     "slug": "shreveport-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 7921,
-    "timeWeek": 1876,
-    "timeMonth": 642,
-    "timeYear": 270,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 269,
+    "timeDay": 5321,
+    "timeWeek": 1701,
+    "timeMonth": 626,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-06-21": 6
+      "2022-06-21": 22
     }
   },
   {
@@ -1806,19 +1806,19 @@
     "url": "https://snapmedicalassistant.com/",
     "icon": "https://snapmedicalassistant.com/assets/favicons/snapmedicalassistant.com/favicon.ico",
     "slug": "snap-medical-assistant-academy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 66,
+    "timeDay": 111,
     "timeWeek": 159,
-    "timeMonth": 180,
+    "timeMonth": 179,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 22
     }
   },
   {
@@ -1826,19 +1826,19 @@
     "url": "https://southbenddentalassistant.com/",
     "icon": "https://southbenddentalassistant.com/assets/favicons/southbenddentalassistant.com/favicon.ico",
     "slug": "south-bend-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 111,
-    "timeWeek": 154,
-    "timeMonth": 163,
+    "timeDay": 120,
+    "timeWeek": 152,
+    "timeMonth": 162,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 22
     }
   },
   {
@@ -1846,19 +1846,19 @@
     "url": "https://spokanedentalassistant.com/",
     "icon": "https://spokanedentalassistant.com/assets/favicons/spokanedentalassistant.com/favicon.ico",
     "slug": "spokane-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 72,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 132,
+    "timeDay": 95,
     "timeWeek": 144,
     "timeMonth": 148,
-    "timeYear": 131,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 21
     }
   },
   {
@@ -1866,19 +1866,19 @@
     "url": "https://stjohndentalassistant.com/",
     "icon": "https://stjohndentalassistant.com/assets/favicons/stjohndentalassistant.com/favicon.ico",
     "slug": "st-john-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 103,
-    "timeWeek": 135,
-    "timeMonth": 153,
+    "timeDay": 109,
+    "timeWeek": 134,
+    "timeMonth": 152,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 21
     }
   },
   {
@@ -1886,19 +1886,19 @@
     "url": "https://tacomadentalassistant.com/",
     "icon": "https://tacomadentalassistant.com/assets/favicons/tacomadentalassistant.com/favicon.ico",
     "slug": "tacoma-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 107,
+    "timeDay": 129,
     "timeWeek": 155,
     "timeMonth": 163,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-06-21": 4
+      "2022-06-21": 21
     }
   },
   {
@@ -1906,19 +1906,19 @@
     "url": "https://templedentalassistantschool.com/",
     "icon": "https://templedentalassistantschool.com/assets/favicons/templedentalassistantschool.com/favicon.ico",
     "slug": "temple-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 63,
-    "timeWeek": 118,
+    "timeDay": 90,
+    "timeWeek": 121,
     "timeMonth": 158,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-06-21": 4
+      "2022-06-21": 20
     }
   },
   {
@@ -1926,19 +1926,19 @@
     "url": "https://terrehautedentalassistant.com/",
     "icon": "https://terrehautedentalassistant.com/assets/favicons/terrehautedentalassistant.com/favicon.ico",
     "slug": "terre-haute-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 139,
-    "timeDay": 99,
-    "timeWeek": 139,
-    "timeMonth": 163,
+    "timeDay": 114,
+    "timeWeek": 140,
+    "timeMonth": 162,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-06-21": 4
+      "2022-06-21": 20
     }
   },
   {
@@ -1946,19 +1946,19 @@
     "url": "https://texasdentalassistantschool.com/",
     "icon": "https://texasdentalassistantschool.com/assets/favicons/texasdentalassistantschool.com/favicon.ico",
     "slug": "texas-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 72,
-    "timeWeek": 161,
-    "timeMonth": 177,
+    "timeDay": 121,
+    "timeWeek": 167,
+    "timeMonth": 178,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 4
+      "2022-06-21": 20
     }
   },
   {
@@ -1966,19 +1966,19 @@
     "url": "https://texastechcodingacademy.com/",
     "icon": "https://texastechcodingacademy.com/assets/favicons/texastechcodingacademy.com/favicon.ico",
     "slug": "texas-tech-coding-academy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 85,
-    "timeWeek": 145,
-    "timeMonth": 165,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 148,
+    "timeDay": 147,
+    "timeWeek": 158,
+    "timeMonth": 168,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-06-21": 3
+      "2022-06-21": 20
     }
   },
   {
@@ -1986,19 +1986,19 @@
     "url": "https://tucsondentalassistantschool.com/",
     "icon": "https://tucsondentalassistantschool.com/assets/favicons/tucsondentalassistantschool.com/favicon.ico",
     "slug": "tucson-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 7901,
-    "timeWeek": 1898,
-    "timeMonth": 641,
+    "timeDay": 5372,
+    "timeWeek": 1740,
+    "timeMonth": 631,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-06-21": 3
+      "2022-06-21": 20
     }
   },
   {
@@ -2006,19 +2006,19 @@
     "url": "https://tulsadentalassistant.com/",
     "icon": "https://tulsadentalassistant.com/assets/favicons/tulsadentalassistant.com/favicon.ico",
     "slug": "tulsa-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 99,
-    "timeWeek": 201,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 147,
+    "timeDay": 125,
+    "timeWeek": 199,
     "timeMonth": 176,
-    "timeYear": 146,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-06-21": 3
+      "2022-06-21": 20
     }
   },
   {
@@ -2026,19 +2026,19 @@
     "url": "https://tulsamedicalassistant.com/",
     "icon": "https://tulsamedicalassistant.com/assets/favicons/tulsamedicalassistant.com/favicon.ico",
     "slug": "tulsa-medical-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 100,
-    "timeWeek": 164,
+    "timeDay": 139,
+    "timeWeek": 166,
     "timeMonth": 179,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-06-21": 3
+      "2022-06-21": 19
     }
   },
   {
@@ -2046,19 +2046,19 @@
     "url": "https://tylerdentalassistant.com/",
     "icon": "https://tylerdentalassistant.com/assets/favicons/tylerdentalassistant.com/favicon.ico",
     "slug": "tyler-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 103,
-    "timeWeek": 157,
-    "timeMonth": 181,
-    "timeYear": 148,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 149,
+    "timeDay": 161,
+    "timeWeek": 169,
+    "timeMonth": 184,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 19
     }
   },
   {
@@ -2066,19 +2066,19 @@
     "url": "https://dentalassistantschoolwaco.com/",
     "icon": "https://dentalassistantschoolwaco.com/assets/favicons/dentalassistantschoolwaco.com/favicon.ico",
     "slug": "waco-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 96,
-    "timeWeek": 156,
-    "timeMonth": 167,
+    "timeDay": 107,
+    "timeWeek": 153,
+    "timeMonth": 166,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 19
     }
   },
   {
@@ -2086,19 +2086,19 @@
     "url": "https://wichitafallsdentalassistant.com/",
     "icon": "https://wichitafallsdentalassistant.com/assets/favicons/wichitafallsdentalassistant.com/favicon.ico",
     "slug": "wichita-falls-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 143,
-    "timeDay": 131,
-    "timeWeek": 149,
-    "timeMonth": 169,
+    "timeDay": 138,
+    "timeWeek": 148,
+    "timeMonth": 168,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 19
     }
   },
   {
@@ -2106,19 +2106,19 @@
     "url": "https://wichitafallsmedicalassistant.com/",
     "icon": "https://wichitafallsmedicalassistant.com/assets/favicons/wichitafallsmedicalassistant.com/favicon.ico",
     "slug": "wichita-falls-medical-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 144,
-    "timeDay": 142,
-    "timeWeek": 155,
+    "timeDay": 151,
+    "timeWeek": 156,
     "timeMonth": 168,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 18
     }
   }
 ]
