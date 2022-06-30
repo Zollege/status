@@ -1,7 +1,7 @@
 url: https://openedx.zollege.com/ping/
-status: down
-code: 403
-responseTime: 60
-lastUpdated: 2022-06-30T06:58:50.564Z
+status: up
+code: 200
+responseTime: 117
+lastUpdated: 2022-06-30T07:07:48.579Z
 startTime: Sat Feb 26 2022 05:20:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
