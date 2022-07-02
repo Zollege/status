@@ -1,7 +1,7 @@
 url: https://feedback.zollege.com/_health
-status: up
-code: 200
-responseTime: 85
-lastUpdated: 2022-07-02T00:01:43.244Z
+status: down
+code: 403
+responseTime: 97
+lastUpdated: 2022-07-02T22:24:45.560Z
 startTime: Sat Feb 26 2022 05:26:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
