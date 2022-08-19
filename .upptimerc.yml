@@ -26,9 +26,9 @@ sites:
     icon: https://campus.austincodingacademy.com/img/austin-logo.svg
   - name: Webhooks (Jitsu)
     url: https://zql-jitsu.herokuapp.com/ping
-  - name: Feedback (Fider)
-    url: https://feedback.zollege.com/_health
-    icon: https://feedback.zollege.com/static/favicon/logos/trICz1tcsyuNG3kRrp3LkeKmLzHz2j2j0stJg38Lxdl8rcWqtRgqsS0vAmqfNtwO-zollege-icon-blue_1-padding_white.png?size=64
+#   - name: Feedback (Fider)
+#     url: https://feedback.zollege.com/_health
+#     icon: https://feedback.zollege.com/static/favicon/logos/trICz1tcsyuNG3kRrp3LkeKmLzHz2j2j0stJg38Lxdl8rcWqtRgqsS0vAmqfNtwO-zollege-icon-blue_1-padding_white.png?size=64
   - name: Zollege
     url: https://zollege.com/
     icon: https://zollege.com/wp-content/uploads/2019/06/cropped-zollege-logo-blue_icon-32x32.png
