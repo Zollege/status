@@ -197,19 +197,19 @@
     "url": "https://zql-jitsu.herokuapp.com/ping",
     "icon": "https://favicons.githubusercontent.com/zql-jitsu.herokuapp.com",
     "slug": "webhooks-jitsu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 8213,
-    "timeWeek": 2228,
-    "timeMonth": 688,
-    "timeYear": 301,
+    "time": 302,
+    "timeDay": 5582,
+    "timeWeek": 2016,
+    "timeMonth": 677,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-08-29": 1
+      "2022-08-29": 12
     }
   },
   {
