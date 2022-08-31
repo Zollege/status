@@ -40,7 +40,7 @@
     "time": 396,
     "timeDay": 302,
     "timeWeek": 222,
-    "timeMonth": 192,
+    "timeMonth": 191,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2022-07-30": 21,
@@ -629,18 +629,19 @@
     "url": "https://centraliadentalassistant.com/",
     "icon": "https://centraliadentalassistant.com/assets/favicons/centraliadentalassistant.com/favicon.ico",
     "slug": "centralia-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 224,
-    "timeDay": 216,
-    "timeWeek": 206,
-    "timeMonth": 190,
-    "timeYear": 224,
+    "time": 225,
+    "timeDay": 378,
+    "timeWeek": 247,
+    "timeMonth": 201,
+    "timeYear": 225,
     "dailyMinutesDown": {
+      "2022-08-31": 1,
       "2022-06-30": 42,
       "2022-06-21": 35
     }
@@ -2039,9 +2040,9 @@
     "slug": "terre-haute-dental-assistant-school",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 164,
     "timeDay": 1854,
@@ -2049,7 +2050,6 @@
     "timeMonth": 299,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-08-31": 14,
       "2022-06-30": 51,
       "2022-06-21": 20
     }
