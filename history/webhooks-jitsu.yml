@@ -1,7 +1,7 @@
 url: https://zql-jitsu.herokuapp.com/ping
-status: up
-code: 200
-responseTime: 88
-lastUpdated: 2022-09-25T23:01:05.039Z
+status: down
+code: 502
+responseTime: 18056
+lastUpdated: 2022-09-26T15:54:02.983Z
 startTime: Sat Feb 26 2022 05:26:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
