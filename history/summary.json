@@ -102,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lti.zollege.com.ico",
     "slug": "zollege-lti-canvas",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.20%",
     "time": 236,
     "timeDay": 181,
     "timeWeek": 157,
@@ -2396,19 +2396,19 @@
     "url": "https://zql.zollege.com/lti/invoice?email=r.watkins@zollege.com",
     "icon": "https://icons.duckduckgo.com/ip3/zql.zollege.com.ico",
     "slug": "invoice-lti-lite-canvas",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 3020,
     "timeDay": 7336,
     "timeWeek": 3020,
     "timeMonth": 3020,
     "timeYear": 3020,
     "dailyMinutesDown": {
-      "2023-01-12": 9
+      "2023-01-12": 4
     }
   }
 ]
