@@ -2396,19 +2396,19 @@
     "url": "https://zql.zollege.com/lti/invoice?email=r.watkins@zollege.com",
     "icon": "https://icons.duckduckgo.com/ip3/zql.zollege.com.ico",
     "slug": "invoice-lti-lite-canvas",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 3803,
     "timeDay": 1327,
     "timeWeek": 3803,
     "timeMonth": 3803,
     "timeYear": 3803,
     "dailyMinutesDown": {
-      "2023-01-16": 9,
+      "2023-01-16": 4,
       "2023-01-12": 39
     }
   }
