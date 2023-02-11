@@ -21,14 +21,6 @@ sites:
 #     icon: https://courses.zollege.com/static/zollege/images/favicon.6455cb07c50a.png
   - name: Zollege LTI (Open edX)
     url: https://openedx.zollege.com/ping/
-  - name: Campus Manager
-    url: https://campus.austincodingacademy.com/
-    icon: https://campus.austincodingacademy.com/img/austin-logo.svg
-#   - name: Webhooks (Jitsu)
-#     url: https://zql-jitsu.herokuapp.com/ping
-#   - name: Feedback (Fider)
-#     url: https://feedback.zollege.com/_health
-#     icon: https://feedback.zollege.com/static/favicon/logos/trICz1tcsyuNG3kRrp3LkeKmLzHz2j2j0stJg38Lxdl8rcWqtRgqsS0vAmqfNtwO-zollege-icon-blue_1-padding_white.png?size=64
   - name: Zollege
     url: https://zollege.com/
     icon: https://zollege.com/wp-content/uploads/2019/06/cropped-zollege-logo-blue_icon-32x32.png
@@ -59,9 +51,6 @@ sites:
   - name: Augusta Dental Assistant School
     url: https://augustadentalassistant.com/
     icon: https://augustadentalassistant.com/assets/favicons/augustadentalassistant.com/favicon.ico
-  - name: Austin Coding Academy
-    url: https://austincodingacademy.com/
-    icon: https://austincodingacademy.com/assets/favicons/austincodingacademy.com/favicon.ico
   - name: Austin Dental Assistant School
     url: https://austindentalassistantschool.com/
     icon: https://austindentalassistantschool.com/assets/favicons/austindentalassistantschool.com/favicon.ico
@@ -196,9 +185,6 @@ sites:
   - name: Louisiana Dental Assistant Academy
     url: https://louisianadentalassistantacademy.com/
     icon: https://louisianadentalassistantacademy.com/assets/favicons/louisianadentalassistantacademy.com/favicon.ico
-  - name: Lubbock Coding Academy
-    url: https://lubbockcodingacademy.com/
-    icon: https://lubbockcodingacademy.com/assets/favicons/lubbockcodingacademy.com/favicon.ico
   - name: Lubbock Dental Assistant School
     url: https://lubbockdentalassistantschool.com/
     icon: https://lubbockdentalassistantschool.com/assets/favicons/lubbockdentalassistantschool.com/favicon.ico
@@ -292,9 +278,6 @@ sites:
   - name: Texas Dental Assistant School
     url: https://texasdentalassistantschool.com/
     icon: https://texasdentalassistantschool.com/assets/favicons/texasdentalassistantschool.com/favicon.ico
-  - name: Texas Tech Coding Academy
-    url: https://texastechcodingacademy.com/
-    icon: https://texastechcodingacademy.com/assets/favicons/texastechcodingacademy.com/favicon.ico
   - name: Tucson Dental Assistant School
     url: https://tucsondentalassistantschool.com/
     icon: https://tucsondentalassistantschool.com/assets/favicons/tucsondentalassistantschool.com/favicon.ico
