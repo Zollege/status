@@ -42,7 +42,7 @@
     "timeDay": 250,
     "timeWeek": 192,
     "timeMonth": 143,
-    "timeYear": 321,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2022-07-30": 21,
       "2022-07-27": 873,
@@ -162,7 +162,7 @@
     "timeDay": 339,
     "timeWeek": 186,
     "timeMonth": 131,
-    "timeYear": 180,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2022-08-24": 98,
       "2022-08-23": 26,
@@ -187,7 +187,7 @@
     "timeDay": 199,
     "timeWeek": 128,
     "timeMonth": 101,
-    "timeYear": 138,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2022-10-05": 103,
       "2022-06-30": 104,
@@ -256,7 +256,7 @@
     "timeDay": 199,
     "timeWeek": 175,
     "timeMonth": 128,
-    "timeYear": 155,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2023-02-24": 607,
       "2022-09-13": 41,
@@ -280,7 +280,7 @@
     "timeDay": 160,
     "timeWeek": 159,
     "timeMonth": 130,
-    "timeYear": 149,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2022-09-13": 63,
       "2022-06-30": 104,
@@ -372,7 +372,7 @@
     "timeDay": 191,
     "timeWeek": 182,
     "timeMonth": 137,
-    "timeYear": 161,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2023-02-24": 607,
       "2022-09-13": 62,
@@ -396,7 +396,7 @@
     "timeDay": 201,
     "timeWeek": 177,
     "timeMonth": 137,
-    "timeYear": 205,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2023-02-24": 607,
       "2022-09-13": 41,
@@ -420,7 +420,7 @@
     "timeDay": 189,
     "timeWeek": 175,
     "timeMonth": 129,
-    "timeYear": 166,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2022-09-13": 75,
       "2022-06-30": 103,
@@ -489,7 +489,7 @@
     "timeDay": 166,
     "timeWeek": 172,
     "timeMonth": 134,
-    "timeYear": 159,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2023-02-24": 607,
       "2022-09-13": 41,
@@ -513,7 +513,7 @@
     "timeDay": 162,
     "timeWeek": 172,
     "timeMonth": 133,
-    "timeYear": 151,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2022-09-13": 62,
       "2022-06-30": 42,
@@ -557,7 +557,7 @@
     "timeDay": 183,
     "timeWeek": 168,
     "timeMonth": 125,
-    "timeYear": 149,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2023-02-24": 607,
       "2022-09-13": 62,
@@ -625,7 +625,7 @@
     "timeDay": 199,
     "timeWeek": 164,
     "timeMonth": 122,
-    "timeYear": 161,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2022-09-13": 67,
       "2022-06-30": 42,
@@ -734,7 +734,7 @@
     "timeDay": 247,
     "timeWeek": 173,
     "timeMonth": 132,
-    "timeYear": 245,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2022-06-30": 42,
       "2022-06-21": 34
@@ -777,7 +777,7 @@
     "timeDay": 243,
     "timeWeek": 164,
     "timeMonth": 120,
-    "timeYear": 155,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2022-06-30": 35,
       "2022-06-21": 34
@@ -991,7 +991,7 @@
     "timeDay": 174,
     "timeWeek": 137,
     "timeMonth": 115,
-    "timeYear": 185,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2022-06-30": 23,
       "2022-06-21": 31
@@ -1180,7 +1180,7 @@
     "timeDay": 317,
     "timeWeek": 176,
     "timeMonth": 134,
-    "timeYear": 153,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2022-06-30": 21,
       "2022-06-21": 30
@@ -1286,7 +1286,7 @@
     "timeDay": 160,
     "timeWeek": 147,
     "timeMonth": 126,
-    "timeYear": 157,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2022-06-30": 21,
       "2022-06-21": 29
@@ -1349,7 +1349,7 @@
     "timeDay": 186,
     "timeWeek": 174,
     "timeMonth": 138,
-    "timeYear": 163,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-06-30": 21,
       "2022-06-21": 27
@@ -1370,7 +1370,7 @@
     "timeDay": 176,
     "timeWeek": 205,
     "timeMonth": 187,
-    "timeYear": 271,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2022-06-30": 21,
       "2022-06-21": 27
@@ -1391,7 +1391,7 @@
     "timeDay": 198,
     "timeWeek": 158,
     "timeMonth": 129,
-    "timeYear": 154,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2022-06-30": 21,
       "2022-06-21": 27
@@ -1412,7 +1412,7 @@
     "timeDay": 196,
     "timeWeek": 165,
     "timeMonth": 125,
-    "timeYear": 162,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2022-06-30": 21,
       "2022-06-21": 26
@@ -1496,7 +1496,7 @@
     "timeDay": 157,
     "timeWeek": 146,
     "timeMonth": 118,
-    "timeYear": 188,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2022-06-30": 21,
       "2022-06-21": 26
@@ -1580,7 +1580,7 @@
     "timeDay": 229,
     "timeWeek": 155,
     "timeMonth": 125,
-    "timeYear": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2022-06-30": 15,
       "2022-06-21": 25
@@ -1685,7 +1685,7 @@
     "timeDay": 206,
     "timeWeek": 211,
     "timeMonth": 176,
-    "timeYear": 222,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2022-10-05": 103,
       "2022-06-30": 15,
@@ -1833,7 +1833,7 @@
     "timeDay": 200,
     "timeWeek": 140,
     "timeMonth": 120,
-    "timeYear": 154,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2022-06-30": 15,
       "2022-06-21": 22
@@ -1865,11 +1865,11 @@
     "url": "https://snapmedicalassistant.com/",
     "icon": "https://snapmedicalassistant.com/assets/favicons/snapmedicalassistant.com/favicon.ico",
     "slug": "snap-medical-assistant-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 155,
     "timeDay": 192,
@@ -1877,6 +1877,7 @@
     "timeMonth": 123,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2023-02-26": 4,
       "2022-09-13": 19,
       "2022-06-30": 15,
       "2022-06-21": 22
@@ -1960,7 +1961,7 @@
     "timeDay": 226,
     "timeWeek": 162,
     "timeMonth": 124,
-    "timeYear": 152,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2022-06-30": 66,
       "2022-06-21": 21
@@ -2014,11 +2015,11 @@
     "url": "https://texasdentalassistantschool.com/",
     "icon": "https://texasdentalassistantschool.com/assets/favicons/texasdentalassistantschool.com/favicon.ico",
     "slug": "texas-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 160,
     "timeDay": 263,
@@ -2026,6 +2027,7 @@
     "timeMonth": 140,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2023-02-26": 4,
       "2022-06-30": 51,
       "2022-06-21": 20
     }
@@ -2220,11 +2222,11 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "new-externship-form-lti-lite-canvas",
     "status": "up",
-    "uptime": "91.58%",
+    "uptime": "91.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.90%",
-    "uptimeYear": "91.58%",
+    "uptimeYear": "91.62%",
     "time": 57,
     "timeDay": 87,
     "timeWeek": 89,
@@ -2298,11 +2300,11 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "student-feedback-lti-lite-canvas",
     "status": "up",
-    "uptime": "91.58%",
+    "uptime": "91.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.90%",
-    "uptimeYear": "91.58%",
+    "uptimeYear": "91.62%",
     "time": 54,
     "timeDay": 96,
     "timeWeek": 67,
