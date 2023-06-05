@@ -311,19 +311,19 @@
     "url": "https://zql.zollege.com/lti/submit-dental-externship-form?email=r.watkins%40zollege.com&displayName=Rob+Watkins&userId=16&courseName=Robs+Test+JS411&courseStart=2020-12-28T23%3A35%3A00Z&courseId=7",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "submit-dental-externship-form",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 81,
-    "timeDay": 113,
+    "timeDay": 98,
     "timeWeek": 68,
     "timeMonth": 64,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2023-06-05": 1
+      "2023-06-05": 10
     }
   },
   {
