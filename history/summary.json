@@ -268,11 +268,11 @@
     "url": "https://zql.zollege.com/lti/invoice?email=r.watkins@zollege.com",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "invoice-lti-lite-canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 667,
     "timeDay": 232,
@@ -280,7 +280,7 @@
     "timeMonth": 224,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-06-21": 8,
+      "2023-06-21": 1,
       "2023-01-12": 39
     }
   },
