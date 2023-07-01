@@ -51,19 +51,19 @@
     "url": "https://4runw89p71.execute-api.us-west-1.amazonaws.com/latest/ping",
     "icon": "https://icons.duckduckgo.com/ip3/4runw89p71.execute-api.us-west-1.amazonaws.com.ico",
     "slug": "lambda",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 598,
-    "timeDay": 145,
-    "timeWeek": 503,
-    "timeMonth": 548,
-    "timeYear": 606,
+    "timeDay": 297,
+    "timeWeek": 496,
+    "timeMonth": 545,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2023-07-01": 0
+      "2023-07-01": 10
     }
   },
   {
