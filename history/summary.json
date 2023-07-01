@@ -161,11 +161,11 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "new-externship-form-lti-lite-canvas",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.69%",
+    "uptimeYear": "97.70%",
     "time": 59,
     "timeDay": 26,
     "timeWeek": 52,
@@ -239,11 +239,11 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "student-feedback-lti-lite-canvas",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.69%",
+    "uptimeYear": "97.70%",
     "time": 56,
     "timeDay": 25,
     "timeWeek": 53,
@@ -262,11 +262,11 @@
     "url": "https://zql.zollege.com/lti/invoice?email=r.watkins@zollege.com",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "invoice-lti-lite-canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.87%",
     "time": 576,
     "timeDay": 392,
@@ -274,7 +274,7 @@
     "timeMonth": 234,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-07-01": 31,
+      "2023-07-01": 23,
       "2023-06-30": 22,
       "2023-06-28": 41,
       "2023-06-27": 63,
@@ -336,7 +336,7 @@
     "timeDay": 84,
     "timeWeek": 106,
     "timeMonth": 110,
-    "timeYear": 119,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2023-05-09": 28,
       "2022-10-05": 103
@@ -357,7 +357,7 @@
     "timeDay": 108,
     "timeWeek": 151,
     "timeMonth": 145,
-    "timeYear": 155,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2022-09-13": 63
     }
@@ -859,7 +859,7 @@
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 132,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -936,7 +936,7 @@
     "timeDay": 118,
     "timeWeek": 133,
     "timeMonth": 137,
-    "timeYear": 158,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -1026,7 +1026,7 @@
     "timeDay": 118,
     "timeWeek": 121,
     "timeMonth": 128,
-    "timeYear": 156,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -1080,7 +1080,7 @@
     "timeDay": 141,
     "timeWeek": 131,
     "timeMonth": 130,
-    "timeYear": 155,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -1278,7 +1278,7 @@
     "timeDay": 114,
     "timeWeek": 140,
     "timeMonth": 136,
-    "timeYear": 164,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2022-10-25": 60
     }
@@ -1352,7 +1352,7 @@
     "timeDay": 97,
     "timeWeek": 124,
     "timeMonth": 134,
-    "timeYear": 158,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -1388,7 +1388,7 @@
     "timeDay": 88,
     "timeWeek": 115,
     "timeMonth": 129,
-    "timeYear": 153,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -1424,7 +1424,7 @@
     "timeDay": 96,
     "timeWeek": 116,
     "timeMonth": 129,
-    "timeYear": 166,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -1442,7 +1442,7 @@
     "timeDay": 118,
     "timeWeek": 132,
     "timeMonth": 138,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -1460,7 +1460,7 @@
     "timeDay": 76,
     "timeWeek": 135,
     "timeMonth": 148,
-    "timeYear": 156,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -1568,7 +1568,7 @@
     "timeDay": 121,
     "timeWeek": 126,
     "timeMonth": 130,
-    "timeYear": 150,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -1715,7 +1715,7 @@
     "timeDay": 108,
     "timeWeek": 121,
     "timeMonth": 124,
-    "timeYear": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -1769,7 +1769,7 @@
     "timeDay": 98,
     "timeWeek": 126,
     "timeMonth": 131,
-    "timeYear": 153,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -1898,7 +1898,7 @@
     "timeDay": 106,
     "timeWeek": 118,
     "timeMonth": 130,
-    "timeYear": 159,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   },
   {
@@ -1936,7 +1936,7 @@
     "timeDay": 136,
     "timeWeek": 163,
     "timeMonth": 161,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2023-02-26": 497
     }
@@ -1956,7 +1956,7 @@
     "timeDay": 119,
     "timeWeek": 118,
     "timeMonth": 124,
-    "timeYear": 170,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -1974,7 +1974,7 @@
     "timeDay": 115,
     "timeWeek": 124,
     "timeMonth": 123,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
