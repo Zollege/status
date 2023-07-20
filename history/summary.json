@@ -263,9 +263,9 @@
     "slug": "invoice-lti-lite-canvas",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "99.68%",
     "time": 963,
     "timeDay": 136,
@@ -273,7 +273,7 @@
     "timeMonth": 1284,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-07-20": 57,
+      "2023-07-20": 70,
       "2023-07-19": 34,
       "2023-07-18": 23,
       "2023-07-17": 36,
@@ -307,28 +307,30 @@
     "url": "https://zql.zollege.com/lti/submit-medical-externship-form?email=r.watkins%40zollege.com&displayName=Rob+Watkins&userId=16&courseName=Robs+Test+JS411&courseStart=2020-12-28T23%3A35%3A00Z&courseId=7",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "submit-medical-externship-form",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 74,
     "timeDay": 84,
     "timeWeek": 59,
     "timeMonth": 75,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 2
+    }
   },
   {
     "name": "Submit Dental Externship Form",
     "url": "https://zql.zollege.com/lti/submit-dental-externship-form?email=r.watkins%40zollege.com&displayName=Rob+Watkins&userId=16&courseName=Robs+Test+JS411&courseStart=2020-12-28T23%3A35%3A00Z&courseId=7",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "submit-dental-externship-form",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
@@ -336,7 +338,9 @@
     "timeWeek": 58,
     "timeMonth": 75,
     "timeYear": 79,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 1
+    }
   },
   {
     "name": "Zollege",
