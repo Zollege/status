@@ -93,7 +93,7 @@
     "uptimeYear": "99.75%",
     "time": 222,
     "timeDay": 145,
-    "timeWeek": 154,
+    "timeWeek": 158,
     "timeMonth": 169,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -1575,19 +1575,19 @@
     "url": "https://odessadentalassistantschool.com/",
     "icon": "https://odessadentalassistantschool.com/assets/favicons/odessadentalassistantschool.com/favicon.ico",
     "slug": "odessa-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 165,
-    "timeWeek": 149,
-    "timeMonth": 140,
-    "timeYear": 148,
+    "timeDay": 214,
+    "timeWeek": 163,
+    "timeMonth": 144,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-07-31": 4
+      "2023-07-31": 11
     }
   },
   {
