@@ -106,10 +106,10 @@
     "url": "https://openedx.zollege.com/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/openedx.zollege.com.ico",
     "slug": "zollege-lti-open-ed-x",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
@@ -117,7 +117,9 @@
     "timeWeek": 109,
     "timeMonth": 130,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-17": 1
+    }
   },
   {
     "name": "Externship Office - LTI Lite (Canvas)",
