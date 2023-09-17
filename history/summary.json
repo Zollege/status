@@ -106,19 +106,19 @@
     "url": "https://openedx.zollege.com/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/openedx.zollege.com.ico",
     "slug": "zollege-lti-open-ed-x",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 71,
-    "timeWeek": 109,
-    "timeMonth": 130,
+    "timeDay": 107,
+    "timeWeek": 113,
+    "timeMonth": 131,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-09-17": 1
+      "2023-09-17": 9
     }
   },
   {
