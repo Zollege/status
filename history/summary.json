@@ -5,10 +5,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "zql",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 177,
@@ -16,7 +16,7 @@
     "timeMonth": 153,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-10-19": 0
+      "2023-10-19": 10
     }
   },
   {
