@@ -4,18 +4,20 @@
     "url": "https://zql.zollege.com/api/ping/",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "zql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 289,
-    "timeWeek": 173,
-    "timeMonth": 156,
+    "time": 243,
+    "timeDay": 177,
+    "timeWeek": 159,
+    "timeMonth": 153,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-19": 0
+    }
   },
   {
     "name": "Reports (Metabase)",
@@ -243,9 +245,9 @@
     "slug": "invoice-lti-lite-canvas",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 845,
     "timeDay": 139,
@@ -253,7 +255,6 @@
     "timeMonth": 149,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-10-19": 9,
       "2023-07-25": 97,
       "2023-07-24": 57,
       "2023-07-23": 91,
