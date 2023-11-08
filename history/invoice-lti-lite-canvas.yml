@@ -1,7 +1,7 @@
 url: https://zql.zollege.com/lti/invoice?email=r.watkins@zollege.com
-status: down
-code: 500
-responseTime: 130
-lastUpdated: 2023-11-08T15:50:53.717Z
+status: up
+code: 200
+responseTime: 107
+lastUpdated: 2023-11-08T16:00:57.645Z
 startTime: 2023-01-09T16:04:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
