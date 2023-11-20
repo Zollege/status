@@ -1248,19 +1248,19 @@
     "url": "https://lasvegasdentalassistant.com/",
     "icon": "https://lasvegasdentalassistant.com/assets/favicons/lasvegasdentalassistant.com/favicon.ico",
     "slug": "las-vegas-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 161,
-    "timeWeek": 154,
-    "timeMonth": 167,
+    "timeDay": 153,
+    "timeWeek": 152,
+    "timeMonth": 166,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-11-20": 3
+      "2023-11-20": 11
     }
   },
   {
@@ -1556,19 +1556,19 @@
     "url": "https://oklahomacitydentalassistant.com/",
     "icon": "https://oklahomacitydentalassistant.com/assets/favicons/oklahomacitydentalassistant.com/favicon.ico",
     "slug": "oklahoma-city-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 155,
-    "timeWeek": 151,
-    "timeMonth": 155,
+    "timeDay": 133,
+    "timeWeek": 145,
+    "timeMonth": 153,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-11-20": 4
+      "2023-11-20": 11
     }
   },
   {
@@ -1740,19 +1740,19 @@
     "url": "https://shreveportdentalassistant.com/",
     "icon": "https://shreveportdentalassistant.com/assets/favicons/shreveportdentalassistant.com/favicon.ico",
     "slug": "shreveport-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 124,
-    "timeWeek": 159,
-    "timeMonth": 165,
+    "timeDay": 153,
+    "timeWeek": 165,
+    "timeMonth": 166,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-11-20": 4
+      "2023-11-20": 11
     }
   },
   {
