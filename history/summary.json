@@ -717,19 +717,19 @@
     "url": "https://collegestationdentalassistant.com/",
     "icon": "https://collegestationdentalassistant.com/assets/favicons/collegestationdentalassistant.com/favicon.ico",
     "slug": "college-station-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 192,
-    "timeWeek": 180,
+    "timeDay": 178,
+    "timeWeek": 177,
     "timeMonth": 165,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-12-15": 3
+      "2023-12-15": 12
     }
   },
   {
@@ -1104,19 +1104,19 @@
     "url": "https://houstondentalassistant.com/",
     "icon": "https://houstondentalassistant.com/assets/favicons/houstondentalassistant.com/favicon.ico",
     "slug": "houston-dental-assistant-academy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 197,
-    "timeWeek": 178,
-    "timeMonth": 160,
+    "timeDay": 173,
+    "timeWeek": 172,
+    "timeMonth": 159,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-12-15": 4
+      "2023-12-15": 12
     }
   },
   {
@@ -1538,19 +1538,19 @@
     "url": "https://ohiodentalassistantschool.com/",
     "icon": "https://ohiodentalassistantschool.com/assets/favicons/ohiodentalassistantschool.com/favicon.ico",
     "slug": "ohio-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 121,
-    "timeWeek": 133,
-    "timeMonth": 132,
+    "timeDay": 104,
+    "timeWeek": 126,
+    "timeMonth": 130,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2023-12-15": 5
+      "2023-12-15": 12
     }
   },
   {
@@ -1758,19 +1758,19 @@
     "url": "https://snapmedicalassistant.com/",
     "icon": "https://snapmedicalassistant.com/assets/favicons/snapmedicalassistant.com/favicon.ico",
     "slug": "snap-medical-assistant-academy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.90%",
-    "time": 153,
-    "timeDay": 250,
-    "timeWeek": 176,
-    "timeMonth": 149,
+    "time": 152,
+    "timeDay": 187,
+    "timeWeek": 163,
+    "timeMonth": 146,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2023-12-15": 6,
+      "2023-12-15": 12,
       "2023-02-26": 497
     }
   },
@@ -1851,19 +1851,19 @@
     "url": "https://templedentalassistantschool.com/",
     "icon": "https://templedentalassistantschool.com/assets/favicons/templedentalassistantschool.com/favicon.ico",
     "slug": "temple-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 226,
-    "timeWeek": 220,
+    "timeDay": 201,
+    "timeWeek": 212,
     "timeMonth": 169,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-12-15": 6
+      "2023-12-15": 12
     }
   },
   {
@@ -1871,19 +1871,19 @@
     "url": "https://terrehautedentalassistant.com/",
     "icon": "https://terrehautedentalassistant.com/assets/favicons/terrehautedentalassistant.com/favicon.ico",
     "slug": "terre-haute-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 167,
-    "timeWeek": 134,
+    "timeDay": 149,
+    "timeWeek": 131,
     "timeMonth": 129,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-12-15": 6
+      "2023-12-15": 12
     }
   },
   {
