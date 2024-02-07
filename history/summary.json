@@ -52,7 +52,7 @@
     "timeDay": 164,
     "timeWeek": 648,
     "timeMonth": 898,
-    "timeYear": 728,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeDay": 116,
     "timeWeek": 262,
     "timeMonth": 329,
-    "timeYear": 311,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -106,7 +106,7 @@
     "timeDay": 277,
     "timeWeek": 139,
     "timeMonth": 146,
-    "timeYear": 142,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -142,7 +142,7 @@
     "timeDay": 94,
     "timeWeek": 74,
     "timeMonth": 52,
-    "timeYear": 65,
+    "timeYear": 64,
     "dailyMinutesDown": {}
   },
   {
@@ -178,7 +178,7 @@
     "timeDay": 89,
     "timeWeek": 95,
     "timeMonth": 58,
-    "timeYear": 65,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   },
   {
@@ -230,9 +230,9 @@
     "uptimeYear": "99.46%",
     "time": 673,
     "timeDay": 166,
-    "timeWeek": 142,
+    "timeWeek": 148,
     "timeMonth": 134,
-    "timeYear": 567,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2024-01-09": 126,
       "2024-01-08": 70,
@@ -586,7 +586,7 @@
     "timeDay": 176,
     "timeWeek": 188,
     "timeMonth": 155,
-    "timeYear": 156,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -624,7 +624,7 @@
     "timeDay": 126,
     "timeWeek": 155,
     "timeMonth": 133,
-    "timeYear": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -734,7 +734,7 @@
     "timeDay": 159,
     "timeWeek": 160,
     "timeMonth": 134,
-    "timeYear": 136,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2023-02-24": 600
     }
@@ -867,7 +867,7 @@
     "timeDay": 174,
     "timeWeek": 201,
     "timeMonth": 148,
-    "timeYear": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -885,7 +885,7 @@
     "timeDay": 214,
     "timeWeek": 259,
     "timeMonth": 224,
-    "timeYear": 247,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -959,7 +959,7 @@
     "timeDay": 139,
     "timeWeek": 202,
     "timeMonth": 153,
-    "timeYear": 145,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -1039,18 +1039,20 @@
     "url": "https://grapevinedentalassistantschool.com/",
     "icon": "https://grapevinedentalassistantschool.com/assets/favicons/grapevinedentalassistantschool.com/favicon.ico",
     "slug": "grapevine-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 124,
     "timeWeek": 185,
     "timeMonth": 147,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "timeYear": 145,
+    "dailyMinutesDown": {
+      "2024-02-07": 2
+    }
   },
   {
     "name": "Houma Dental Assistant School",
@@ -1085,7 +1087,7 @@
     "timeDay": 152,
     "timeWeek": 162,
     "timeMonth": 141,
-    "timeYear": 149,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -1301,7 +1303,7 @@
     "timeDay": 155,
     "timeWeek": 214,
     "timeMonth": 191,
-    "timeYear": 202,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -1508,18 +1510,18 @@
     "icon": "https://ohiodentalassistantschool.com/assets/favicons/ohiodentalassistantschool.com/favicon.ico",
     "slug": "ohio-dental-assistant-school",
     "status": "down",
-    "uptime": "99.29%",
+    "uptime": "99.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.87%",
-    "uptimeMonth": "83.40%",
-    "uptimeYear": "98.62%",
+    "uptimeWeek": "17.23%",
+    "uptimeMonth": "80.95%",
+    "uptimeYear": "98.41%",
     "time": 143,
     "timeDay": 0,
     "timeWeek": 261,
     "timeMonth": 129,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-02-07": 12,
+      "2024-02-07": 1084,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
@@ -1561,7 +1563,7 @@
     "timeDay": 154,
     "timeWeek": 189,
     "timeMonth": 147,
-    "timeYear": 142,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -1689,7 +1691,7 @@
     "timeDay": 127,
     "timeWeek": 172,
     "timeMonth": 144,
-    "timeYear": 145,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -1799,7 +1801,7 @@
     "timeDay": 174,
     "timeWeek": 166,
     "timeMonth": 149,
-    "timeYear": 144,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
