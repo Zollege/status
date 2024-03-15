@@ -78,19 +78,19 @@
     "url": "https://lti.zollege.com/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/lti.zollege.com.ico",
     "slug": "zollege-lti-canvas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 129,
-    "timeWeek": 144,
-    "timeMonth": 330,
+    "timeDay": 157,
+    "timeWeek": 152,
+    "timeMonth": 326,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-03-15": 1
+      "2024-03-15": 12
     }
   },
   {
@@ -1027,14 +1027,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "89.82%",
+    "uptimeYear": "89.81%",
     "time": 146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-03-15": 1324,
+      "2024-03-15": 1336,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -1541,7 +1541,7 @@
     "timeMonth": 0,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-03-15": 1325,
+      "2024-03-15": 1338,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -1804,7 +1804,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-03-15": 1325,
+      "2024-03-15": 1339,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
