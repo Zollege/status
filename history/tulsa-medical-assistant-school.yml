@@ -1,7 +1,7 @@
 url: https://tulsamedicalassistant.com/
-status: up
-code: 200
-responseTime: 112
-lastUpdated: 2024-03-27T23:01:01.884Z
+status: down
+code: 503
+responseTime: 2101
+lastUpdated: 2024-03-28T13:13:56.233Z
 startTime: 2022-02-21T19:03:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
