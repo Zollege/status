@@ -1025,14 +1025,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "86.36%",
+    "uptimeYear": "86.35%",
     "time": 146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-03-28": 797,
+      "2024-03-28": 806,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-03-28": 798,
+      "2024-03-28": 808,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -1828,7 +1828,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-03-28": 798,
+      "2024-03-28": 809,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -2048,19 +2048,19 @@
     "url": "https://tulsamedicalassistant.com/",
     "icon": "https://tulsamedicalassistant.com/assets/favicons/tulsamedicalassistant.com/favicon.ico",
     "slug": "tulsa-medical-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 1107,
-    "timeWeek": 407,
+    "timeDay": 814,
+    "timeWeek": 388,
     "timeMonth": 228,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-03-28": 5
+      "2024-03-28": 9
     }
   },
   {
