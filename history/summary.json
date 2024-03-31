@@ -1021,7 +1021,7 @@
     "icon": "https://grapevinedentalassistantschool.com/assets/favicons/grapevinedentalassistantschool.com/favicon.ico",
     "slug": "grapevine-dental-assistant-school",
     "status": "down",
-    "uptime": "93.17%",
+    "uptime": "93.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1032,7 +1032,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-03-31": 333,
+      "2024-03-31": 343,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -1555,7 +1555,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-03-31": 334,
+      "2024-03-31": 344,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -1834,7 +1834,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-03-31": 335,
+      "2024-03-31": 344,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -1911,19 +1911,19 @@
     "url": "https://spokanedentalassistant.com/",
     "icon": "https://spokanedentalassistant.com/assets/favicons/spokanedentalassistant.com/favicon.ico",
     "slug": "spokane-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 4692,
-    "timeWeek": 1265,
-    "timeMonth": 446,
-    "timeYear": 170,
+    "timeDay": 3154,
+    "timeWeek": 1133,
+    "timeMonth": 435,
+    "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-03-31": 3
+      "2024-03-31": 9
     }
   },
   {
