@@ -676,19 +676,19 @@
     "url": "https://collegestationdentalassistant.com/",
     "icon": "https://collegestationdentalassistant.com/assets/favicons/collegestationdentalassistant.com/favicon.ico",
     "slug": "college-station-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 1238,
-    "timeWeek": 416,
-    "timeMonth": 230,
+    "timeDay": 871,
+    "timeWeek": 385,
+    "timeMonth": 227,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-04-07": 3
+      "2024-04-07": 7
     }
   },
   {
@@ -1034,7 +1034,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-04-07": 772,
+      "2024-04-07": 778,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
@@ -1564,7 +1564,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-04-07": 774,
+      "2024-04-07": 779,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
@@ -1850,7 +1850,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-04-07": 775,
+      "2024-04-07": 779,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
@@ -1934,19 +1934,19 @@
     "url": "https://spokanedentalassistant.com/",
     "icon": "https://spokanedentalassistant.com/assets/favicons/spokanedentalassistant.com/favicon.ico",
     "slug": "spokane-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 1186,
-    "timeWeek": 408,
-    "timeMonth": 488,
+    "timeDay": 840,
+    "timeWeek": 379,
+    "timeMonth": 478,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2024-04-07": 6
+      "2024-04-07": 7
     }
   },
   {
