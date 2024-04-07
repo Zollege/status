@@ -350,19 +350,19 @@
     "url": "https://abilenemedicalassistant.com/",
     "icon": "https://abilenemedicalassistant.com/assets/favicons/abilenemedicalassistant.com/favicon.ico",
     "slug": "abilene-medical-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 1306,
-    "timeWeek": 425,
-    "timeMonth": 219,
+    "time": 153,
+    "timeDay": 898,
+    "timeWeek": 387,
+    "timeMonth": 215,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-04-07": 1
+      "2024-04-07": 7
     }
   },
   {
@@ -1034,7 +1034,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-04-07": 1157,
+      "2024-04-07": 1163,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
@@ -1564,7 +1564,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-04-07": 1158,
+      "2024-04-07": 1164,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
@@ -1850,7 +1850,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-04-07": 1158,
+      "2024-04-07": 1164,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
