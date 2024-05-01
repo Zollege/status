@@ -1038,7 +1038,7 @@
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-05-01": 11,
+      "2024-05-01": 29,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -1220,18 +1220,20 @@
     "url": "https://jacksonvilledentalassistantschool.com/",
     "icon": "https://jacksonvilledentalassistantschool.com/assets/favicons/jacksonvilledentalassistantschool.com/favicon.ico",
     "slug": "jacksonville-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 158,
     "timeWeek": 172,
     "timeMonth": 158,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 3
+    }
   },
   {
     "name": "Jeffersonville Dental Assistant School",
@@ -1594,7 +1596,7 @@
     "timeMonth": 0,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-05-01": 12,
+      "2024-05-01": 30,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -1897,7 +1899,7 @@
     "uptime": "91.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.06%",
+    "uptimeMonth": "51.10%",
     "uptimeYear": "81.91%",
     "time": 146,
     "timeDay": 141,
