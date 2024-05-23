@@ -1,7 +1,7 @@
 url: https://reports.zollege.com/api/health
-status: down
-code: 504
-responseTime: 100
-lastUpdated: 2024-05-23T07:40:29.630Z
+status: up
+code: 200
+responseTime: 145
+lastUpdated: 2024-05-23T07:50:36.666Z
 startTime: 2022-01-25T00:44:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
