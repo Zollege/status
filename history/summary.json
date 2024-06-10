@@ -4,19 +4,19 @@
     "url": "https://zql.zollege.com/api/ping/",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "zql",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 114,
-    "timeWeek": 129,
-    "timeMonth": 152,
-    "timeYear": 209,
+    "timeDay": 112,
+    "timeWeek": 127,
+    "timeMonth": 151,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-06-10": 1
+      "2024-06-10": 12
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://zql.zollege.com/lti/externship-office?email=r.watkins@zollege.com",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "externship-office-lti-lite-canvas",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 69,
-    "timeWeek": 66,
-    "timeMonth": 97,
+    "timeDay": 73,
+    "timeWeek": 68,
+    "timeMonth": 96,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-06-10": 1
+      "2024-06-10": 12
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://zql.zollege.com/lti/new-externship-form?displayName=Rob%20Watkins&userId=16&email=r.watkins@zollege.com&courseName=Robs%20Test%20JS411&courseId=7&courseStart=2020-12-28T23:35:00Z&student=true",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "new-externship-form-lti-lite-canvas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 27,
-    "timeWeek": 40,
-    "timeMonth": 57,
+    "timeDay": 34,
+    "timeWeek": 41,
+    "timeMonth": 56,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2024-06-10": 1
+      "2024-06-10": 12
     }
   },
   {
@@ -156,19 +156,19 @@
     "url": "https://zql.zollege.com/lti/file-upload?email=r.watkins@zollege.com",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "file-upload-lti-lite-canvas",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 25,
-    "timeWeek": 51,
-    "timeMonth": 70,
+    "timeDay": 30,
+    "timeWeek": 50,
+    "timeMonth": 69,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2024-06-10": 1
+      "2024-06-10": 12
     }
   },
   {
@@ -1050,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-06-10": 1023,
+      "2024-06-10": 1036,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -1648,7 +1648,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-06-10": 1024,
+      "2024-06-10": 1037,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
