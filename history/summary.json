@@ -232,7 +232,7 @@
     "timeDay": 156,
     "timeWeek": 991,
     "timeMonth": 1196,
-    "timeYear": 610,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-06-10": 77,
       "2024-06-09": 45,
@@ -518,18 +518,20 @@
     "url": "https://batonrougedentalassistant.com/",
     "icon": "https://batonrougedentalassistant.com/assets/favicons/batonrougedentalassistant.com/favicon.ico",
     "slug": "baton-rouge-dental-assistant-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 207,
     "timeWeek": 150,
     "timeMonth": 157,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 4
+    }
   },
   {
     "name": "Bellingham Dental Assistant School",
@@ -959,19 +961,17 @@
     "icon": "https://franklindentalassistant.com/assets/favicons/franklindentalassistant.com/favicon.ico",
     "slug": "franklin-dental-assistant-school",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 794,
     "timeWeek": 351,
     "timeMonth": 213,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2024-06-20": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Georgia Dental Assistant School",
@@ -1044,7 +1044,7 @@
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-06-20": 1111,
+      "2024-06-20": 1136,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -1422,11 +1422,11 @@
     "url": "https://louisianadentalassistantacademy.com/",
     "icon": "https://louisianadentalassistantacademy.com/assets/favicons/louisianadentalassistantacademy.com/favicon.ico",
     "slug": "louisiana-dental-assistant-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 209,
     "timeDay": 379,
@@ -1434,6 +1434,7 @@
     "timeMonth": 275,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2024-06-20": 3,
       "2024-04-19": 71
     }
   },
@@ -1645,14 +1646,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.70%",
+    "uptimeYear": "61.69%",
     "time": 139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-06-20": 1112,
+      "2024-06-20": 1137,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
