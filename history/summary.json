@@ -958,19 +958,19 @@
     "url": "https://franklindentalassistant.com/",
     "icon": "https://franklindentalassistant.com/assets/favicons/franklindentalassistant.com/favicon.ico",
     "slug": "franklin-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 358,
-    "timeWeek": 186,
-    "timeMonth": 167,
-    "timeYear": 154,
+    "time": 153,
+    "timeDay": 794,
+    "timeWeek": 351,
+    "timeMonth": 213,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-06-20": 3
+      "2024-06-20": 12
     }
   },
   {
@@ -1044,7 +1044,7 @@
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-06-20": 1099,
+      "2024-06-20": 1111,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -1652,7 +1652,7 @@
     "timeMonth": 0,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-06-20": 1100,
+      "2024-06-20": 1112,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -2001,7 +2001,7 @@
     "icon": "https://snapmedicalassistant.com/assets/favicons/snapmedicalassistant.com/favicon.ico",
     "slug": "snap-medical-assistant-academy",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
