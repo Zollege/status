@@ -1009,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-08-09": 1294,
+      "2024-08-09": 1303,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -1515,7 +1515,7 @@
     "uptime": "96.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.24%",
+    "uptimeMonth": "4.22%",
     "uptimeYear": "92.02%",
     "time": 144,
     "timeDay": 0,
@@ -1523,7 +1523,7 @@
     "timeMonth": 117,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-08-09": 1295,
+      "2024-08-09": 1304,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -1614,19 +1614,19 @@
     "url": "https://nacogdochesdentalassistant.com/",
     "icon": "https://nacogdochesdentalassistant.com/assets/favicons/nacogdochesdentalassistant.com/favicon.ico",
     "slug": "nacogdoches-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 138,
-    "timeWeek": 176,
-    "timeMonth": 185,
+    "time": 147,
+    "timeDay": 137,
+    "timeWeek": 171,
+    "timeMonth": 183,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-08-09": 5
+      "2024-08-09": 10
     }
   },
   {
@@ -1700,7 +1700,7 @@
     "timeMonth": 0,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-08-09": 1296,
+      "2024-08-09": 1304,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
