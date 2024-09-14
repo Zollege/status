@@ -1,7 +1,7 @@
 url: https://zql.zollege.com/lti/class-file-upload?email=r.watkins@zollege.com&courseId=7
-status: down
-code: 503
-responseTime: 109
-lastUpdated: 2024-09-14T20:42:24.322Z
+status: up
+code: 200
+responseTime: 20
+lastUpdated: 2024-09-14T20:50:49.546Z
 startTime: 2023-01-09T16:04:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
