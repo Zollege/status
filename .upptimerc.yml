@@ -3,6 +3,9 @@ owner: Zollege # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
+  - name: Website Start Dates
+    url: https://zql.zollege.com/api/5fcaa0e04289f50021ae2b3b?apiKey=f83707c1-2f29-4946-9a47-530e1242fb0e&format=json
+    __dangerous__body_down: '"message":"0 results returned"'
   - name: ZQL
     url: https://zql.zollege.com/api/ping/
     icon: https://zql.zollege.com/favicon/favicon-32x32.png
