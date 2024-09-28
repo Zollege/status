@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zql.zollege.com.ico",
     "slug": "website-start-dates",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.82%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 281,
     "timeDay": 281,
     "timeWeek": 281,
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-09-28": 0
+      "2024-09-28": 6
     }
   },
   {
