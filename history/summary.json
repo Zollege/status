@@ -268,7 +268,7 @@
     "timeDay": 193,
     "timeWeek": 149,
     "timeMonth": 185,
-    "timeYear": 393,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2024-12-28": 350,
       "2024-08-14": 327,
@@ -739,19 +739,19 @@
     "url": "https://corpuschristidentalassistant.com/",
     "icon": "https://corpuschristidentalassistant.com/assets/favicons/corpuschristidentalassistant.com/favicon.ico",
     "slug": "corpus-christi-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 196,
-    "timeWeek": 191,
-    "timeMonth": 187,
+    "timeDay": 216,
+    "timeWeek": 199,
+    "timeMonth": 189,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-01-08": 12
+      "2025-01-08": 2
     }
   },
   {
