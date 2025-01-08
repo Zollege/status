@@ -739,19 +739,19 @@
     "url": "https://corpuschristidentalassistant.com/",
     "icon": "https://corpuschristidentalassistant.com/assets/favicons/corpuschristidentalassistant.com/favicon.ico",
     "slug": "corpus-christi-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 213,
-    "timeWeek": 194,
-    "timeMonth": 188,
+    "timeDay": 196,
+    "timeWeek": 191,
+    "timeMonth": 187,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-01-08": 2
+      "2025-01-08": 12
     }
   },
   {
