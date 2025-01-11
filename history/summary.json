@@ -343,18 +343,20 @@
     "url": "https://abilenedentalassistantschool.com/",
     "icon": "https://abilenedentalassistantschool.com/assets/favicons/abilenedentalassistantschool.com/favicon.ico",
     "slug": "abilene-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 150,
-    "timeWeek": 174,
-    "timeMonth": 187,
+    "timeDay": 144,
+    "timeWeek": 170,
+    "timeMonth": 185,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-11": 2
+    }
   },
   {
     "name": "Abilene Medical Assistant School",
