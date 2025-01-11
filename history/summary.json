@@ -343,19 +343,19 @@
     "url": "https://abilenedentalassistantschool.com/",
     "icon": "https://abilenedentalassistantschool.com/assets/favicons/abilenedentalassistantschool.com/favicon.ico",
     "slug": "abilene-dental-assistant-school",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 144,
+    "time": 167,
+    "timeDay": 153,
     "timeWeek": 170,
     "timeMonth": 185,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-01-11": 2
+      "2025-01-11": 26
     }
   },
   {
