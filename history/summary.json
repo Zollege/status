@@ -677,18 +677,16 @@
     "slug": "chicago-dental-assistant-school",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 189,
     "timeWeek": 161,
     "timeMonth": 174,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2025-01-22": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "College Station Dental Assistant School",
@@ -749,18 +747,19 @@
     "url": "https://corpuschristidentalassistant.com/",
     "icon": "https://corpuschristidentalassistant.com/assets/favicons/corpuschristidentalassistant.com/favicon.ico",
     "slug": "corpus-christi-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 105,
-    "timeWeek": 165,
-    "timeMonth": 168,
+    "time": 166,
+    "timeDay": 106,
+    "timeWeek": 158,
+    "timeMonth": 166,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2025-01-22": 2,
       "2025-01-08": 16
     }
   },
@@ -1143,7 +1142,7 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.46%",
+    "uptimeWeek": "70.56%",
     "uptimeMonth": "83.41%",
     "uptimeYear": "98.58%",
     "time": 230,
