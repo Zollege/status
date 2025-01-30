@@ -1572,19 +1572,19 @@
     "url": "https://phoenixdentalassistantschool.com/",
     "icon": "https://phoenixdentalassistantschool.com/assets/favicons/phoenixdentalassistantschool.com/favicon.ico",
     "slug": "phoenix-dental-assistant-school",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 241,
-    "timeWeek": 221,
-    "timeMonth": 186,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "84.75%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.96%",
+    "time": 174,
+    "timeDay": 245,
+    "timeWeek": 225,
+    "timeMonth": 188,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-01-30": 5
+      "2025-01-30": 220
     }
   },
   {
