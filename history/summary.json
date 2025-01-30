@@ -1296,19 +1296,19 @@
     "url": "https://littlerockdentalassistant.com/",
     "icon": "https://littlerockdentalassistant.com/assets/favicons/littlerockdentalassistant.com/favicon.ico",
     "slug": "little-rock-dental-assistant-academy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 232,
-    "timeWeek": 194,
-    "timeMonth": 176,
+    "timeDay": 221,
+    "timeWeek": 195,
+    "timeMonth": 177,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-01-30": 4
+      "2025-01-30": 9
     }
   },
   {
