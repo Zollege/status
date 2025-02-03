@@ -1038,19 +1038,19 @@
     "url": "https://gonzalesmedicalassistant.com/",
     "icon": "https://gonzalesmedicalassistant.com/assets/favicons/gonzalesmedicalassistant.com/favicon.ico",
     "slug": "gonzales-medical-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 239,
+    "time": 167,
+    "timeDay": 238,
     "timeWeek": 234,
-    "timeMonth": 180,
+    "timeMonth": 181,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-02-03": 2
+      "2025-02-03": 7
     }
   },
   {
@@ -1266,18 +1266,20 @@
     "url": "https://lasvegasmedicalassistant.com/",
     "icon": "https://lasvegasmedicalassistant.com/assets/favicons/lasvegasmedicalassistant.com/favicon.ico",
     "slug": "las-vegas-medical-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 152,
-    "timeWeek": 199,
-    "timeMonth": 174,
+    "timeDay": 145,
+    "timeWeek": 191,
+    "timeMonth": 173,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 4
+    }
   },
   {
     "name": "League City Medical Assistant School",
