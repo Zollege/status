@@ -1864,19 +1864,19 @@
     "url": "https://tacomadentalassistant.com/",
     "icon": "https://tacomadentalassistant.com/assets/favicons/tacomadentalassistant.com/favicon.ico",
     "slug": "tacoma-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 174,
-    "timeWeek": 219,
-    "timeMonth": 167,
-    "timeYear": 164,
+    "time": 162,
+    "timeDay": 255,
+    "timeWeek": 244,
+    "timeMonth": 175,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-02-03": 4
+      "2025-02-03": 12
     }
   },
   {
