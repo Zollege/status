@@ -1040,18 +1040,16 @@
     "slug": "gonzales-medical-assistant-school",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 238,
     "timeWeek": 234,
     "timeMonth": 181,
     "timeYear": 169,
-    "dailyMinutesDown": {
-      "2025-02-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Granbury Medical Assistant School",
@@ -1266,19 +1264,19 @@
     "url": "https://lasvegasmedicalassistant.com/",
     "icon": "https://lasvegasmedicalassistant.com/assets/favicons/lasvegasmedicalassistant.com/favicon.ico",
     "slug": "las-vegas-medical-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 145,
-    "timeWeek": 191,
-    "timeMonth": 173,
+    "timeDay": 165,
+    "timeWeek": 192,
+    "timeMonth": 174,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-02-03": 4
+      "2025-02-03": 7
     }
   },
   {
