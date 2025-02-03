@@ -1266,18 +1266,16 @@
     "slug": "las-vegas-medical-assistant-school",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
     "timeDay": 165,
     "timeWeek": 192,
     "timeMonth": 174,
     "timeYear": 166,
-    "dailyMinutesDown": {
-      "2025-02-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "League City Medical Assistant School",
@@ -1866,18 +1864,20 @@
     "url": "https://tacomadentalassistant.com/",
     "icon": "https://tacomadentalassistant.com/assets/favicons/tacomadentalassistant.com/favicon.ico",
     "slug": "tacoma-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 147,
-    "timeWeek": 222,
-    "timeMonth": 166,
+    "timeDay": 174,
+    "timeWeek": 219,
+    "timeMonth": 167,
     "timeYear": 164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 4
+    }
   },
   {
     "name": "Temple Dental Assistant School",
