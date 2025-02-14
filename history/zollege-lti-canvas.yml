@@ -1,7 +1,7 @@
 url: https://lti.zollege.com/ping/
-status: down
-code: 503
-responseTime: 125
-lastUpdated: 2025-02-14T14:24:41.014Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2025-02-14T14:41:08.044Z
 startTime: 2022-03-05T18:12:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
