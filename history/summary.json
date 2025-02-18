@@ -6,9 +6,9 @@
     "slug": "website-start-dates",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "86.97%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "86.43%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.26%",
     "time": 333,
     "timeDay": 209,
@@ -16,7 +16,7 @@
     "timeMonth": 443,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-02-18": 187,
+      "2025-02-18": 195,
       "2025-01-31": 27,
       "2025-01-29": 27,
       "2025-01-27": 22,
@@ -49,10 +49,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "zql",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "88.80%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
+    "uptime": "99.96%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 133,
     "timeDay": 63,
@@ -60,7 +60,7 @@
     "timeMonth": 68,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-02-18": 161
+      "2025-02-18": 169
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://lti.zollege.com/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/lti.zollege.com.ico",
     "slug": "zollege-lti-canvas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
     "time": 215,
-    "timeDay": 183,
-    "timeWeek": 249,
+    "timeDay": 235,
+    "timeWeek": 251,
     "timeMonth": 248,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-02-18": 1,
+      "2025-02-18": 8,
       "2025-02-14": 56,
       "2025-02-11": 37,
       "2025-02-10": 17,
@@ -170,10 +170,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "externship-office-lti-lite-canvas",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "88.76%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptime": "99.98%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 123,
     "timeDay": 105,
@@ -181,7 +181,7 @@
     "timeMonth": 165,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-02-18": 162
+      "2025-02-18": 169
     }
   },
   {
@@ -191,9 +191,9 @@
     "slug": "new-externship-form-lti-lite-canvas",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "88.76%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 60,
     "timeDay": 46,
@@ -201,7 +201,7 @@
     "timeMonth": 75,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-02-18": 162
+      "2025-02-18": 169
     }
   },
   {
@@ -210,10 +210,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "file-upload-lti-lite-canvas",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "88.76%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptime": "99.98%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 57,
     "timeDay": 46,
@@ -221,7 +221,7 @@
     "timeMonth": 74,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2025-02-18": 162
+      "2025-02-18": 169
     }
   },
   {
@@ -230,10 +230,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "class-file-upload-lti-lite-canvas",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "88.76%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptime": "99.98%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 60,
     "timeDay": 47,
@@ -241,7 +241,7 @@
     "timeMonth": 55,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2025-02-18": 162
+      "2025-02-18": 169
     }
   },
   {
@@ -250,10 +250,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "end-of-course-survey-lti-lite-canvas",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "88.76%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptime": "99.98%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 57,
     "timeDay": 57,
@@ -261,7 +261,7 @@
     "timeMonth": 71,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2025-02-18": 162
+      "2025-02-18": 169
     }
   },
   {
@@ -271,9 +271,9 @@
     "slug": "student-feedback-lti-lite-canvas",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "88.76%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 58,
     "timeDay": 51,
@@ -281,7 +281,7 @@
     "timeMonth": 64,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-02-18": 162
+      "2025-02-18": 169
     }
   },
   {
@@ -291,9 +291,9 @@
     "slug": "invoice-lti-lite-canvas",
     "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "79.13%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "95.50%",
+    "uptimeDay": "78.60%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "95.48%",
     "uptimeYear": "99.47%",
     "time": 439,
     "timeDay": 117,
@@ -301,7 +301,7 @@
     "timeMonth": 1095,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2025-02-18": 301,
+      "2025-02-18": 308,
       "2025-01-31": 473,
       "2025-01-30": 28,
       "2025-01-29": 232,
@@ -322,10 +322,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "submit-medical-externship-form",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "80.86%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "95.73%",
+    "uptime": "99.78%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "99.56%",
     "time": 205,
     "timeDay": 57,
@@ -333,7 +333,7 @@
     "timeMonth": 634,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-02-18": 276,
+      "2025-02-18": 283,
       "2025-01-31": 448,
       "2025-01-30": 27,
       "2025-01-29": 207,
@@ -353,10 +353,10 @@
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "submit-dental-externship-form",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "80.85%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "95.73%",
+    "uptime": "99.78%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "99.56%",
     "time": 196,
     "timeDay": 55,
@@ -364,7 +364,7 @@
     "timeMonth": 432,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-02-18": 276,
+      "2025-02-18": 283,
       "2025-01-31": 448,
       "2025-01-30": 27,
       "2025-01-29": 207,
