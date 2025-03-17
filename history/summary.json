@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.26%",
     "time": 327,
@@ -931,11 +931,11 @@
     "url": "https://duncanvilledentalassistant.com/",
     "icon": "https://duncanvilledentalassistant.com/assets/favicons/duncanvilledentalassistant.com/favicon.ico",
     "slug": "duncanville-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.85%",
     "time": 304,
     "timeDay": 4122,
@@ -943,6 +943,7 @@
     "timeMonth": 491,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2025-03-17": 3,
       "2024-04-26": 2,
       "2024-04-25": 799
     }
@@ -952,11 +953,11 @@
     "url": "https://elpasodentalassistant.com/",
     "icon": "https://elpasodentalassistant.com/assets/favicons/elpasodentalassistant.com/favicon.ico",
     "slug": "el-paso-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 243,
     "timeDay": 225,
@@ -964,6 +965,7 @@
     "timeMonth": 306,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2025-03-17": 3,
       "2024-10-15": 9,
       "2024-04-19": 97
     }
@@ -993,9 +995,9 @@
     "slug": "evansville-dental-assistant-school",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 449,
     "timeDay": 435,
@@ -1003,7 +1005,7 @@
     "timeMonth": 565,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2025-03-17": 2,
+      "2025-03-17": 18,
       "2025-01-25": 19,
       "2024-12-05": 31,
       "2024-04-23": 60
