@@ -659,19 +659,19 @@
     "url": "https://bremertondentalassistant.com/",
     "icon": "https://bremertondentalassistant.com/assets/favicons/bremertondentalassistant.com/favicon.ico",
     "slug": "bremerton-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 420,
-    "timeWeek": 292,
-    "timeMonth": 245,
-    "timeYear": 179,
+    "time": 174,
+    "timeDay": 352,
+    "timeWeek": 283,
+    "timeMonth": 244,
+    "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-03-19": 4
+      "2025-03-19": 15
     }
   },
   {
