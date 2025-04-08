@@ -1,7 +1,7 @@
 url: https://learn.zollege.com/health_check/
-status: up
-code: 200
-responseTime: 388
-lastUpdated: 2025-04-08T23:00:19.020Z
+status: down
+code: 500
+responseTime: 8942
+lastUpdated: 2025-04-08T23:25:03.656Z
 startTime: 2022-01-25T03:43:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
