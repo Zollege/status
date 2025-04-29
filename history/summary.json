@@ -1199,7 +1199,7 @@
     "status": "up",
     "uptime": "98.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.47%",
+    "uptimeWeek": "71.57%",
     "uptimeMonth": "61.03%",
     "uptimeYear": "95.33%",
     "time": 247,
@@ -1414,19 +1414,20 @@
     "url": "https://magnoliadentalassistant.com/",
     "icon": "https://magnoliadentalassistant.com/assets/favicons/magnoliadentalassistant.com/favicon.ico",
     "slug": "magnolia-dental-assistant-school",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 151,
-    "timeWeek": 184,
-    "timeMonth": 194,
+    "timeDay": 160,
+    "timeWeek": 183,
+    "timeMonth": 193,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-04-28": 5
+      "2025-04-29": 3,
+      "2025-04-28": 9
     }
   },
   {
