@@ -191,18 +191,19 @@
     "url": "https://abilenedentalassistantschool.com/",
     "icon": "https://abilenedentalassistantschool.com/assets/favicons/abilenedentalassistantschool.com/favicon.ico",
     "slug": "abilene-dental-assistant-school",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 191,
     "timeDay": 265,
     "timeWeek": 264,
     "timeMonth": 257,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2025-06-05": 35,
       "2025-01-11": 26
     }
   },
@@ -211,18 +212,20 @@
     "url": "https://abilenemedicalassistant.com/",
     "icon": "https://abilenemedicalassistant.com/assets/favicons/abilenemedicalassistant.com/favicon.ico",
     "slug": "abilene-medical-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 191,
     "timeDay": 317,
     "timeWeek": 248,
     "timeMonth": 261,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 34
+    }
   },
   {
     "name": "Alvin Dental Assistant School",
@@ -267,16 +270,18 @@
     "slug": "amarillo-medical-assistant-school",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 301,
     "timeWeek": 267,
     "timeMonth": 244,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 8
+    }
   },
   {
     "name": "Atlanta Dental Assistant School",
@@ -285,17 +290,17 @@
     "slug": "atlanta-dental-assistant-school",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 240,
     "timeDay": 282,
     "timeWeek": 231,
     "timeMonth": 247,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-06-05": 13
+      "2025-06-05": 71
     }
   },
   {
@@ -358,17 +363,19 @@
     "icon": "https://austinmedicalassistantschool.com/assets/favicons/austinmedicalassistantschool.com/favicon.ico",
     "slug": "austin-medical-assistant-school",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 260,
     "timeWeek": 242,
     "timeMonth": 255,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 7
+    }
   },
   {
     "name": "Baton Rouge Dental Assistant Academy",
@@ -395,17 +402,17 @@
     "slug": "bellingham-dental-assistant-school",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 193,
     "timeDay": 238,
     "timeWeek": 244,
     "timeMonth": 230,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-06-05": 12
+      "2025-06-05": 70
     }
   },
   {
@@ -413,18 +420,20 @@
     "url": "https://birminghamdentalassistant.com/",
     "icon": "https://birminghamdentalassistant.com/assets/favicons/birminghamdentalassistant.com/favicon.ico",
     "slug": "birmingham-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 183,
     "timeDay": 331,
     "timeWeek": 266,
     "timeMonth": 228,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 32
+    }
   },
   {
     "name": "Bloomington Dental Assistant School",
@@ -449,19 +458,19 @@
     "url": "https://bremertondentalassistant.com/",
     "icon": "https://bremertondentalassistant.com/assets/favicons/bremertondentalassistant.com/favicon.ico",
     "slug": "bremerton-dental-assistant-school",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 184,
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
+    "time": 185,
     "timeDay": 296,
     "timeWeek": 226,
     "timeMonth": 225,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-06-05": 10
+      "2025-06-05": 69
     }
   },
   {
@@ -505,18 +514,20 @@
     "url": "https://charlottedentalassistantschool.com/",
     "icon": "https://charlottedentalassistantschool.com/assets/favicons/charlottedentalassistantschool.com/favicon.ico",
     "slug": "charlotte-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 185,
     "timeDay": 304,
     "timeWeek": 272,
     "timeMonth": 236,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 29
+    }
   },
   {
     "name": "Chicago Dental Assistant School",
@@ -543,18 +554,20 @@
     "url": "https://collegestationdentalassistant.com/",
     "icon": "https://collegestationdentalassistant.com/assets/favicons/collegestationdentalassistant.com/favicon.ico",
     "slug": "college-station-dental-assistant-school",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 192,
     "timeDay": 355,
     "timeWeek": 266,
     "timeMonth": 259,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 27
+    }
   },
   {
     "name": "College Station Medical Assistant School",
@@ -599,17 +612,17 @@
     "slug": "corpus-christi-dental-assistant-school",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
     "time": 188,
     "timeDay": 313,
     "timeWeek": 250,
     "timeMonth": 239,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-06-05": 8,
+      "2025-06-05": 67,
       "2025-01-08": 16
     }
   },
@@ -618,18 +631,20 @@
     "url": "https://corpuschristimedicalassistant.com/",
     "icon": "https://corpuschristimedicalassistant.com/assets/favicons/corpuschristimedicalassistant.com/favicon.ico",
     "slug": "corpus-christi-medical-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 179,
     "timeDay": 438,
     "timeWeek": 266,
     "timeMonth": 260,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 26
+    }
   },
   {
     "name": "Dallas Dental Assistant School",
@@ -672,18 +687,20 @@
     "url": "https://daltondentalassistant.com/",
     "icon": "https://daltondentalassistant.com/assets/favicons/daltondentalassistant.com/favicon.ico",
     "slug": "dalton-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 321,
     "timeWeek": 235,
     "timeMonth": 240,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 24
+    }
   },
   {
     "name": "Denton Dental Assistant School",
@@ -708,19 +725,19 @@
     "url": "https://denverdentalassistant.com/",
     "icon": "https://denverdentalassistant.com/assets/favicons/denverdentalassistant.com/favicon.ico",
     "slug": "denver-dental-assistant-school",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 201,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
+    "time": 202,
     "timeDay": 274,
     "timeWeek": 298,
     "timeMonth": 273,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-06-05": 7
+      "2025-06-05": 66
     }
   },
   {
@@ -769,18 +786,20 @@
     "url": "https://elpasomedicalassistant.com/",
     "icon": "https://elpasomedicalassistant.com/assets/favicons/elpasomedicalassistant.com/favicon.ico",
     "slug": "el-paso-medical-assistant-school",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 326,
     "timeWeek": 255,
     "timeMonth": 242,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 22
+    }
   },
   {
     "name": "Evansville Dental Assistant School",
@@ -810,18 +829,20 @@
     "url": "https://fortworthdentalassistant.com/",
     "icon": "https://fortworthdentalassistant.com/assets/favicons/fortworthdentalassistant.com/favicon.ico",
     "slug": "fort-worth-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 231,
     "timeWeek": 236,
     "timeMonth": 238,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 20
+    }
   },
   {
     "name": "Franklin Dental Assistant School",
@@ -920,19 +941,19 @@
     "url": "https://houstondentalassistant.com/",
     "icon": "https://houstondentalassistant.com/assets/favicons/houstondentalassistant.com/favicon.ico",
     "slug": "houston-dental-assistant-academy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 202,
     "timeDay": 290,
     "timeWeek": 251,
     "timeMonth": 239,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-06-05": 5
+      "2025-06-05": 64
     }
   },
   {
@@ -942,16 +963,18 @@
     "slug": "huntsville-dental-assistant-school",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 283,
-    "timeWeek": 245,
-    "timeMonth": 256,
-    "timeYear": 199,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 427,
+    "timeWeek": 295,
+    "timeMonth": 270,
+    "timeYear": 200,
+    "dailyMinutesDown": {
+      "2025-06-05": 4
+    }
   },
   {
     "name": "Huntsville Dental Assistant School",
@@ -960,16 +983,18 @@
     "slug": "huntsville-dental-assistant-school",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 283,
-    "timeWeek": 245,
-    "timeMonth": 256,
-    "timeYear": 199,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 427,
+    "timeWeek": 295,
+    "timeMonth": 270,
+    "timeYear": 200,
+    "dailyMinutesDown": {
+      "2025-06-05": 4
+    }
   },
   {
     "name": "Indianapolis Dental Assistant School",
@@ -1069,17 +1094,17 @@
     "slug": "lake-jackson-medical-assistant-school",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 308,
     "timeWeek": 240,
     "timeMonth": 246,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-06-05": 2
+      "2025-06-05": 61
     }
   },
   {
@@ -1123,36 +1148,40 @@
     "url": "https://leaguecitymedicalassistant.com/",
     "icon": "https://leaguecitymedicalassistant.com/assets/favicons/leaguecitymedicalassistant.com/favicon.ico",
     "slug": "league-city-medical-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 225,
     "timeWeek": 232,
     "timeMonth": 237,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 16
+    }
   },
   {
     "name": "Little Rock Dental Assistant Academy",
     "url": "https://littlerockdentalassistant.com/",
     "icon": "https://littlerockdentalassistant.com/assets/favicons/littlerockdentalassistant.com/favicon.ico",
     "slug": "little-rock-dental-assistant-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 291,
     "timeWeek": 245,
     "timeMonth": 253,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 15
+    }
   },
   {
     "name": "Louisiana Dental Assistant Academy",
@@ -1179,8 +1208,8 @@
     "slug": "lubbock-dental-assistant-school",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
@@ -1188,7 +1217,9 @@
     "timeWeek": 230,
     "timeMonth": 246,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 1
+    }
   },
   {
     "name": "Lubbock Medical Assistant School",
@@ -1323,18 +1354,20 @@
     "url": "https://neworleansdentalassistant.com/",
     "icon": "https://neworleansdentalassistant.com/assets/favicons/neworleansdentalassistant.com/favicon.ico",
     "slug": "new-orleans-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 185,
     "timeDay": 311,
     "timeWeek": 246,
     "timeMonth": 242,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 13
+    }
   },
   {
     "name": "Odessa Dental Assistant School",
@@ -1342,17 +1375,19 @@
     "icon": "https://odessadentalassistantschool.com/assets/favicons/odessadentalassistantschool.com/favicon.ico",
     "slug": "odessa-dental-assistant-school",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 195,
     "timeDay": 247,
     "timeWeek": 228,
     "timeMonth": 405,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 59
+    }
   },
   {
     "name": "Oklahoma City Dental Assistant School",
@@ -1453,18 +1488,20 @@
     "url": "https://sanantoniomedicalassistant.com/",
     "icon": "https://sanantoniomedicalassistant.com/assets/favicons/sanantoniomedicalassistant.com/favicon.ico",
     "slug": "san-antonio-medical-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 193,
     "timeDay": 265,
     "timeWeek": 236,
     "timeMonth": 245,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 12
+    }
   },
   {
     "name": "San Marcos Dental Assistant School",
@@ -1582,18 +1619,20 @@
     "url": "https://southbenddentalassistant.com/",
     "icon": "https://southbenddentalassistant.com/assets/favicons/southbenddentalassistant.com/favicon.ico",
     "slug": "south-bend-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 280,
     "timeWeek": 256,
     "timeMonth": 244,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 11
+    }
   },
   {
     "name": "Spokane Dental Assistant School",
@@ -1672,18 +1711,20 @@
     "url": "https://terrehautedentalassistant.com/",
     "icon": "https://terrehautedentalassistant.com/assets/favicons/terrehautedentalassistant.com/favicon.ico",
     "slug": "terre-haute-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 176,
     "timeDay": 230,
     "timeWeek": 226,
     "timeMonth": 236,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 9
+    }
   },
   {
     "name": "Texas Dental Assistant School",
@@ -1709,17 +1750,19 @@
     "icon": "https://tucsondentalassistantschool.com/assets/favicons/tucsondentalassistantschool.com/favicon.ico",
     "slug": "tucson-dental-assistant-school",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 205,
     "timeDay": 334,
     "timeWeek": 236,
     "timeMonth": 237,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 59
+    }
   },
   {
     "name": "Tulsa Dental Assistant School",
@@ -1744,18 +1787,20 @@
     "url": "https://tulsamedicalassistant.com/",
     "icon": "https://tulsamedicalassistant.com/assets/favicons/tulsamedicalassistant.com/favicon.ico",
     "slug": "tulsa-medical-assistant-school",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 305,
     "timeWeek": 250,
     "timeMonth": 248,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 8
+    }
   },
   {
     "name": "Tyler Dental Assistant School",
@@ -1816,17 +1861,19 @@
     "url": "https://wichitafallsmedicalassistant.com/",
     "icon": "https://wichitafallsmedicalassistant.com/assets/favicons/wichitafallsmedicalassistant.com/favicon.ico",
     "slug": "wichita-falls-medical-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 317,
     "timeWeek": 283,
     "timeMonth": 261,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 6
+    }
   }
 ]
