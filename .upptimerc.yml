@@ -21,33 +21,6 @@ sites:
     url: https://lti.zollege.com/ping/
   - name: Zollege LTI (Open edX)
     url: https://openedx.zollege.com/ping/
-  - name: Externship Office - LTI Lite (Canvas)
-    url: https://zql.zollege.com/lti/externship-office?email=r.watkins@zollege.com
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: New Externship Form - LTI Lite (Canvas)
-    url: https://zql.zollege.com/lti/new-externship-form?displayName=Rob%20Watkins&userId=16&email=r.watkins@zollege.com&courseName=Robs%20Test%20JS411&courseId=7&courseStart=2020-12-28T23:35:00Z&student=true
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: File Upload - LTI Lite (Canvas)
-    url: https://zql.zollege.com/lti/file-upload?email=r.watkins@zollege.com
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: Class File Upload - LTI Lite (Canvas)
-    url: https://zql.zollege.com/lti/class-file-upload?email=r.watkins@zollege.com&courseId=7
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: End of Course Survey - LTI Lite (Canvas)
-    url: https://zql.zollege.com/lti/end-of-course-survey?name=Rob%20Watkins&email=r.watkins@zollege.com&userId=16&courseName=Robs%20Test%20JS411&courseId=7&courseStart=2020-12-28T23:35:00Z
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: Student Feedback - LTI Lite (Canvas)
-    url: https://zql.zollege.com/lti/student-feedback?name=Rob%20Watkins&email=r.watkins@zollege.com&userId=16&courseName=Robs%20Test%20JS411&courseId=7&courseStart=2020-12-28T23:35:00Z
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: Invoice - LTI Lite (Canvas)
-    url: https://zql.zollege.com/lti/invoice?email=r.watkins@zollege.com
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: Submit Medical Externship Form
-    url: https://zql.zollege.com/lti/submit-medical-externship-form?email=r.watkins%40zollege.com&displayName=Rob+Watkins&userId=16&courseName=Robs+Test+JS411&courseStart=2020-12-28T23%3A35%3A00Z&courseId=7
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
-  - name: Submit Dental Externship Form
-    url: https://zql.zollege.com/lti/submit-dental-externship-form?email=r.watkins%40zollege.com&displayName=Rob+Watkins&userId=16&courseName=Robs+Test+JS411&courseStart=2020-12-28T23%3A35%3A00Z&courseId=7
-    icon: https://zql.zollege.com/favicon/favicon-32x32.png
   - name: Zollege
     url: https://zollege.com/
     icon: https://zollege.com/wp-content/uploads/2019/06/cropped-zollege-logo-blue_icon-32x32.png
