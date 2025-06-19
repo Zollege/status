@@ -466,9 +466,9 @@
     "slug": "bloomington-dental-assistant-school",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 228,
@@ -476,7 +476,7 @@
     "timeMonth": 336,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-06-19": 1
+      "2025-06-19": 14
     }
   },
   {
@@ -957,18 +957,19 @@
     "url": "https://granburymedicalassistant.com/",
     "icon": "https://granburymedicalassistant.com/assets/favicons/granburymedicalassistant.com/favicon.ico",
     "slug": "granbury-medical-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "90.56%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.79%",
     "time": 194,
-    "timeDay": 223,
-    "timeWeek": 347,
-    "timeMonth": 298,
+    "timeDay": 219,
+    "timeWeek": 332,
+    "timeMonth": 296,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2025-06-19": 3,
       "2025-06-15": 948,
       "2025-06-05": 77,
       "2025-01-09": 59
