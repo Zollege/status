@@ -110,9 +110,9 @@
     "slug": "learn-canvas",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 405,
     "timeDay": 2502,
@@ -120,7 +120,7 @@
     "timeMonth": 727,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-06-20": 1,
+      "2025-06-20": 9,
       "2025-04-08": 16,
       "2025-01-19": 66
     }
@@ -1699,7 +1699,7 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.95%",
+    "uptimeWeek": "62.03%",
     "uptimeMonth": "90.49%",
     "uptimeYear": "99.21%",
     "time": 205,
