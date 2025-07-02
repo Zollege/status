@@ -1022,10 +1022,10 @@
     "url": "https://huntsvilledentalassistant.com/",
     "icon": "https://huntsvilledentalassistant.com/assets/favicons/huntsvilledentalassistant.com/favicon.ico",
     "slug": "huntsville-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.82%",
     "time": 204,
@@ -1034,6 +1034,7 @@
     "timeMonth": 292,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2025-07-02": 3,
       "2025-06-15": 957
     }
   },
@@ -1042,10 +1043,10 @@
     "url": "https://huntsvilledentalassistantschool.com/",
     "icon": "https://huntsvilledentalassistantschool.com/assets/favicons/huntsvilledentalassistantschool.com/favicon.ico",
     "slug": "huntsville-dental-assistant-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.82%",
     "time": 204,
@@ -1054,6 +1055,7 @@
     "timeMonth": 292,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2025-07-02": 3,
       "2025-06-15": 957
     }
   },
