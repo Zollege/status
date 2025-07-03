@@ -1,7 +1,7 @@
 url: https://zql.zollege.com/api/ping/
-status: down
-code: 503
-responseTime: 35
-lastUpdated: 2025-07-03T14:37:03.940Z
+status: up
+code: 200
+responseTime: 87
+lastUpdated: 2025-07-03T14:52:16.290Z
 startTime: 2022-01-25T00:44:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
