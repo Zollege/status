@@ -114,12 +114,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 407,
     "timeDay": 282,
     "timeWeek": 279,
-    "timeMonth": 366,
+    "timeMonth": 359,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-06-20": 35,
@@ -799,9 +799,9 @@
     "slug": "duncanville-dental-assistant-school",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 368,
     "timeDay": 331,
@@ -809,7 +809,6 @@
     "timeMonth": 425,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2025-07-19": 7,
       "2025-06-15": 948,
       "2025-03-17": 42
     }
@@ -821,9 +820,9 @@
     "slug": "el-paso-dental-assistant-school",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
     "timeDay": 305,
@@ -831,7 +830,6 @@
     "timeMonth": 311,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-07-19": 7,
       "2025-03-17": 42,
       "2024-10-15": 9
     }
@@ -864,9 +862,9 @@
     "slug": "evansville-dental-assistant-school",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 481,
     "timeDay": 406,
@@ -874,7 +872,6 @@
     "timeMonth": 494,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2025-07-19": 6,
       "2025-06-15": 948,
       "2025-03-26": 122,
       "2025-03-17": 84,
@@ -1276,9 +1273,9 @@
     "slug": "louisiana-dental-assistant-academy",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 335,
     "timeDay": 365,
@@ -1286,7 +1283,6 @@
     "timeMonth": 395,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-07-19": 6,
       "2025-06-15": 948
     }
   },
@@ -1547,19 +1543,17 @@
     "icon": "https://philadelphiamedicalassistantschool.com/assets/favicons/philadelphiamedicalassistantschool.com/favicon.ico",
     "slug": "philadelphia-medical-assistant-school",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 275,
     "timeWeek": 323,
     "timeMonth": 305,
     "timeYear": 320,
-    "dailyMinutesDown": {
-      "2025-07-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Phoenix Dental Assistant School",
@@ -1734,9 +1728,9 @@
     "slug": "snap-medical-assistant-academy",
     "status": "up",
     "uptime": "94.66%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 291,
     "timeDay": 294,
@@ -1744,7 +1738,6 @@
     "timeMonth": 319,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-07-19": 5,
       "2025-02-25": 26,
       "2025-01-23": 23
     }
