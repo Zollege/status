@@ -1180,9 +1180,9 @@
     "slug": "lafayette-dental-assistant-school",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.82%",
     "time": 207,
     "timeDay": 1181,
@@ -1190,7 +1190,7 @@
     "timeMonth": 326,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-08-19": 3,
+      "2025-08-19": 12,
       "2025-06-15": 957
     }
   },
@@ -1520,7 +1520,7 @@
     "uptime": "98.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.10%",
+    "uptimeMonth": "34.08%",
     "uptimeYear": "94.29%",
     "time": 223,
     "timeDay": 237,
@@ -1528,7 +1528,7 @@
     "timeMonth": 357,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-08-19": 7,
+      "2025-08-19": 16,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
