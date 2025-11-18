@@ -1,7 +1,7 @@
 url: https://snapmedicalassistant.com/
-status: up
-code: 200
-responseTime: 337
-lastUpdated: 2025-11-18T12:19:38.511Z
+status: down
+code: 500
+responseTime: 259
+lastUpdated: 2025-11-18T13:09:15.167Z
 startTime: 2022-02-21T19:03:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
