@@ -1,7 +1,7 @@
 url: https://sanantoniomedicalassistant.com/
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2025-11-18T12:19:16.904Z
+status: down
+code: 500
+responseTime: 150
+lastUpdated: 2025-11-18T13:09:00.813Z
 startTime: 2022-02-21T19:02:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
