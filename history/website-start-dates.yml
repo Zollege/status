@@ -1,7 +1,7 @@
 url: https://zql.zollege.com/api/5fcaa0e04289f50021ae2b3b?apiKey=f83707c1-2f29-4946-9a47-530e1242fb0e&format=json
-status: up
+status: down
 code: 200
-responseTime: 12366
-lastUpdated: 2025-12-10T22:01:47.431Z
+responseTime: 83
+lastUpdated: 2025-12-10T22:14:35.033Z
 startTime: 2024-09-25T19:01:11.706Z
 generator: Upptime <https://github.com/upptime/upptime>
