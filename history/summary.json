@@ -69,18 +69,20 @@
     "url": "https://reports.zollege.com/api/health",
     "icon": "https://reports.zollege.com/app/assets/img/favicon.ico",
     "slug": "reports-metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 302,
-    "timeWeek": 258,
-    "timeMonth": 284,
+    "timeDay": 336,
+    "timeWeek": 270,
+    "timeMonth": 286,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-25": 0
+    }
   },
   {
     "name": "Lambda",
