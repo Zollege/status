@@ -17,13 +17,6 @@ sites:
   - name: Learn (Canvas)
     url: https://learn.zollege.com/health_check/
     icon: https://canvas-lms.s3.us-west-2.amazonaws.com/account_1/attachments/97/android-icon-48x48.png
-  - name: Zollege LTI (Canvas)
-    url: https://lti.zollege.com/ping/
-  - name: Zollege LTI (Open edX)
-    url: https://openedx.zollege.com/ping/
-  - name: Zollege
-    url: https://zollege.com/
-    icon: https://zollege.com/wp-content/uploads/2019/06/cropped-zollege-logo-blue_icon-32x32.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
