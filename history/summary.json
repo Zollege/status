@@ -4,17 +4,17 @@
     "url": "https://zql.zollege.com/api/5fcaa0e04289f50021ae2b3b?apiKey=f83707c1-2f29-4946-9a47-530e1242fb0e&format=json",
     "icon": "https://icons.duckduckgo.com/ip3/zql.zollege.com.ico",
     "slug": "website-start-dates",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
-    "time": 519,
-    "timeDay": 789,
-    "timeWeek": 966,
-    "timeMonth": 929,
-    "timeYear": 578,
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.45%",
+    "time": 521,
+    "timeDay": 903,
+    "timeWeek": 984,
+    "timeMonth": 935,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-06-03": 214,
       "2025-06-02": 8,
@@ -43,7 +43,7 @@
       "2026-04-20": 906,
       "2026-04-19": 338,
       "2026-04-26": 15,
-      "2026-06-01": 0
+      "2026-06-01": 44
     }
   },
   {
@@ -101,7 +101,7 @@
     "timeDay": 204,
     "timeWeek": 280,
     "timeMonth": 421,
-    "timeYear": 412,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -119,7 +119,7 @@
     "timeDay": 250,
     "timeWeek": 369,
     "timeMonth": 339,
-    "timeYear": 568,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-06-20": 35,
       "2025-12-01": 111,
