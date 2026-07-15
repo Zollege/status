@@ -93,18 +93,20 @@
     "url": "https://4runw89p71.execute-api.us-west-1.amazonaws.com/latest/ping",
     "icon": "https://icons.duckduckgo.com/ip3/4runw89p71.execute-api.us-west-1.amazonaws.com.ico",
     "slug": "lambda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
+    "time": 504,
     "timeDay": 262,
     "timeWeek": 1143,
     "timeMonth": 1442,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-15": 0
+    }
   },
   {
     "name": "Learn (Canvas)",
