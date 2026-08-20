@@ -4,17 +4,17 @@
     "url": "https://zql.zollege.com/api/5fcaa0e04289f50021ae2b3b?apiKey=f83707c1-2f29-4946-9a47-530e1242fb0e&format=json",
     "icon": "https://icons.duckduckgo.com/ip3/zql.zollege.com.ico",
     "slug": "website-start-dates",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.39%",
-    "time": 642,
-    "timeDay": 544,
-    "timeWeek": 888,
-    "timeMonth": 976,
-    "timeYear": 709,
+    "time": 644,
+    "timeDay": 889,
+    "timeWeek": 951,
+    "timeMonth": 991,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2025-08-22": 19,
       "2025-08-26": 15,
@@ -50,7 +50,7 @@
       "2026-07-29": 46,
       "2026-08-03": 63,
       "2026-08-10": 15,
-      "2026-08-20": 0
+      "2026-08-20": 15
     }
   },
   {
