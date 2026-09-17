@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zql.zollege.com.ico",
     "slug": "website-start-dates",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.39%",
-    "time": 670,
-    "timeDay": 740,
-    "timeWeek": 563,
-    "timeMonth": 784,
-    "timeYear": 726,
+    "time": 671,
+    "timeDay": 813,
+    "timeWeek": 649,
+    "timeMonth": 781,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2025-09-29": 30,
       "2025-10-22": 16,
@@ -48,8 +48,7 @@
       "2026-07-29": 46,
       "2026-08-03": 63,
       "2026-08-10": 15,
-      "2026-08-25": 16,
-      "2026-09-16": 8
+      "2026-08-25": 16
     }
   },
   {
@@ -63,10 +62,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 116,
-    "timeWeek": 129,
-    "timeMonth": 147,
+    "time": 131,
+    "timeDay": 233,
+    "timeWeek": 144,
+    "timeMonth": 149,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -81,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 291,
-    "timeDay": 248,
-    "timeWeek": 206,
-    "timeMonth": 208,
-    "timeYear": 293,
+    "time": 292,
+    "timeDay": 340,
+    "timeWeek": 224,
+    "timeMonth": 210,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2026-04-25": 56
     }
@@ -102,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 611,
-    "timeDay": 1852,
-    "timeWeek": 1521,
-    "timeMonth": 1376,
+    "timeDay": 277,
+    "timeWeek": 1267,
+    "timeMonth": 1322,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2026-07-15": 44
@@ -122,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 513,
-    "timeDay": 203,
-    "timeWeek": 246,
-    "timeMonth": 334,
+    "timeDay": 379,
+    "timeWeek": 259,
+    "timeMonth": 335,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2025-12-01": 111,
