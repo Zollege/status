@@ -6,15 +6,15 @@
     "slug": "website-start-dates",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.39%",
-    "time": 674,
-    "timeDay": 896,
-    "timeWeek": 681,
-    "timeMonth": 786,
-    "timeYear": 726,
+    "time": 673,
+    "timeDay": 549,
+    "timeWeek": 610,
+    "timeMonth": 764,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2025-09-29": 30,
       "2025-10-22": 16,
@@ -48,8 +48,7 @@
       "2026-07-29": 46,
       "2026-08-03": 63,
       "2026-08-10": 15,
-      "2026-08-25": 16,
-      "2026-09-18": 8
+      "2026-08-25": 16
     }
   },
   {
@@ -64,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 269,
-    "timeWeek": 171,
-    "timeMonth": 149,
+    "timeDay": 83,
+    "timeWeek": 158,
+    "timeMonth": 146,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -82,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 292,
-    "timeDay": 150,
-    "timeWeek": 234,
-    "timeMonth": 206,
+    "timeDay": 180,
+    "timeWeek": 231,
+    "timeMonth": 207,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2026-04-25": 56
@@ -101,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 614,
-    "timeDay": 1827,
-    "timeWeek": 1283,
-    "timeMonth": 1319,
-    "timeYear": 669,
+    "time": 617,
+    "timeDay": 1738,
+    "timeWeek": 1272,
+    "timeMonth": 1360,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2026-07-15": 44
     }
@@ -122,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 512,
-    "timeDay": 228,
-    "timeWeek": 252,
-    "timeMonth": 324,
-    "timeYear": 530,
+    "timeDay": 240,
+    "timeWeek": 251,
+    "timeMonth": 295,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2025-12-01": 111,
       "2025-12-06": 25,
