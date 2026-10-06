@@ -57,18 +57,20 @@
     "url": "https://zql.zollege.com/api/ping/",
     "icon": "https://zql.zollege.com/favicon/favicon-32x32.png",
     "slug": "zql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 121,
-    "timeWeek": 167,
-    "timeMonth": 157,
+    "timeDay": 109,
+    "timeWeek": 158,
+    "timeMonth": 155,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-06": 0
+    }
   },
   {
     "name": "Reports (Metabase)",
