@@ -116,17 +116,17 @@
     "url": "https://learn.zollege.com/health_check/",
     "icon": "https://canvas-lms.s3.us-west-2.amazonaws.com/account_1/attachments/97/android-icon-48x48.png",
     "slug": "learn-canvas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.69%",
     "time": 510,
-    "timeDay": 206,
-    "timeWeek": 296,
-    "timeMonth": 343,
-    "timeYear": 528,
+    "timeDay": 217,
+    "timeWeek": 291,
+    "timeMonth": 340,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2025-12-01": 111,
       "2025-12-06": 25,
@@ -141,7 +141,7 @@
       "2026-04-09": 38,
       "2026-04-08": 2,
       "2026-10-17": 19,
-      "2026-10-24": 0
+      "2026-10-24": 13
     }
   }
 ]
