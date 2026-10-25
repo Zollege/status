@@ -10,11 +10,11 @@
     "uptimeWeek": "98.84%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.36%",
-    "time": 725,
-    "timeDay": 799,
-    "timeWeek": 989,
-    "timeMonth": 1027,
-    "timeYear": 773,
+    "time": 726,
+    "timeDay": 1146,
+    "timeWeek": 957,
+    "timeMonth": 1028,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2025-11-06": 359,
       "2025-11-07": 32,
@@ -64,9 +64,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 122,
-    "timeWeek": 226,
+    "time": 140,
+    "timeDay": 120,
+    "timeWeek": 206,
     "timeMonth": 172,
     "timeYear": 150,
     "dailyMinutesDown": {}
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 288,
-    "timeDay": 170,
-    "timeWeek": 301,
-    "timeMonth": 251,
-    "timeYear": 288,
+    "timeDay": 136,
+    "timeWeek": 273,
+    "timeMonth": 249,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2026-04-25": 56
     }
@@ -102,10 +102,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 675,
-    "timeDay": 1843,
-    "timeWeek": 1263,
-    "timeMonth": 1294,
+    "time": 679,
+    "timeDay": 1853,
+    "timeWeek": 1485,
+    "timeMonth": 1341,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2026-07-15": 44
@@ -118,14 +118,14 @@
     "slug": "learn-canvas",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 509,
-    "timeDay": 200,
-    "timeWeek": 285,
-    "timeMonth": 331,
+    "timeDay": 210,
+    "timeWeek": 280,
+    "timeMonth": 330,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-12-01": 111,
@@ -140,8 +140,7 @@
       "2026-03-14": 49,
       "2026-04-09": 38,
       "2026-04-08": 2,
-      "2026-10-17": 19,
-      "2026-10-24": 14
+      "2026-10-17": 19
     }
   }
 ]
