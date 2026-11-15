@@ -4,19 +4,18 @@
     "url": "https://zql.zollege.com/api/5fcaa0e04289f50021ae2b3b?apiKey=f83707c1-2f29-4946-9a47-530e1242fb0e&format=json",
     "icon": "https://icons.duckduckgo.com/ip3/zql.zollege.com.ico",
     "slug": "website-start-dates",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.44%",
-    "time": 726,
-    "timeDay": 76,
-    "timeWeek": 823,
-    "timeMonth": 1013,
-    "timeYear": 816,
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.45%",
+    "time": 728,
+    "timeDay": 809,
+    "timeWeek": 832,
+    "timeMonth": 1018,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2025-11-15": 45,
       "2025-11-30": 20,
       "2025-12-02": 17,
       "2025-12-10": 153,
@@ -49,7 +48,7 @@
       "2026-10-12": 38,
       "2026-10-20": 117,
       "2026-10-27": 15,
-      "2026-11-14": 0
+      "2026-11-14": 10
     }
   },
   {
@@ -64,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 127,
-    "timeWeek": 200,
-    "timeMonth": 206,
+    "timeDay": 138,
+    "timeWeek": 181,
+    "timeMonth": 207,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -82,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 289,
-    "timeDay": 333,
-    "timeWeek": 270,
-    "timeMonth": 265,
+    "timeDay": 126,
+    "timeWeek": 249,
+    "timeMonth": 264,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2026-04-25": 56
@@ -102,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 714,
-    "timeDay": 1963,
-    "timeWeek": 1469,
-    "timeMonth": 1306,
-    "timeYear": 802,
+    "timeDay": 1924,
+    "timeWeek": 1697,
+    "timeMonth": 1312,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2026-07-15": 44
     }
@@ -122,9 +121,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.67%",
     "time": 481,
-    "timeDay": 195,
-    "timeWeek": 243,
-    "timeMonth": 285,
+    "timeDay": 181,
+    "timeWeek": 224,
+    "timeMonth": 276,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-12-01": 111,
